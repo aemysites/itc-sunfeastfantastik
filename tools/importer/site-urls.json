@@ -1,0 +1,148 @@
+{
+  "originUrl": "https://sunfeastfantastik.com",
+  "aborted": false,
+  "lastCrawled": "https://sunfeastfantastik.com/",
+  "urls": [
+    {
+      "url": "https://sunfeastfantastik.com/dumpyourexcess.html",
+      "source": "SITEMAPS",
+      "targetPath": "/dumpyourexcess",
+      "id": "a1eafe2c0beba8309bc32b628826df94e337ff23"
+    },
+    {
+      "url": "https://sunfeastfantastik.com/dumpyourexcess/terms-and-conditions.html",
+      "source": "SITEMAPS",
+      "targetPath": "/dumpyourexcess/terms-and-conditions",
+      "id": "7f9092efc38d7db6848bcfe8fe92aed3d98484eb"
+    },
+    {
+      "url": "https://sunfeastfantastik.com/factorylocator.html",
+      "source": "SITEMAPS",
+      "targetPath": "/factorylocator",
+      "id": "cd229c33d03519d39ca4865d467f7e83cd18dc41"
+    },
+    {
+      "url": "https://sunfeastfantastik.com/homepage_msm_moved.html",
+      "source": "SITEMAPS",
+      "targetPath": "/homepage-msm-moved",
+      "id": "dfb3957d6ff6e87ba90542a26d5b0f6248682ec8"
+    },
+    {
+      "url": "https://sunfeastfantastik.com/privacy-policy_msm_moved.html",
+      "source": "SITEMAPS",
+      "targetPath": "/privacy-policy-msm-moved",
+      "id": "0b101eb56ddf435f6747120d83a57c9b32f7fe8d"
+    },
+    {
+      "url": "https://sunfeastfantastik.com/privacy-policy.html",
+      "source": "SITEMAPS",
+      "targetPath": "/privacy-policy",
+      "id": "94410049a8bd4a93e0fe0e5af87ff460137422d7"
+    },
+    {
+      "url": "https://sunfeastfantastik.com/raisethebar.html",
+      "source": "SITEMAPS",
+      "targetPath": "/raisethebar",
+      "id": "553f51808eeaab1c6d7b9ca21a6243888362bac1"
+    },
+    {
+      "url": "https://sunfeastfantastik.com/raisethebar/terms-and-conditions.html",
+      "source": "SITEMAPS",
+      "targetPath": "/raisethebar/terms-and-conditions",
+      "id": "314064ffdf468f50608851a4e2a7a1f490ef33c2"
+    },
+    {
+      "url": "https://sunfeastfantastik.com/terms-of-use_msm_moved.html",
+      "source": "SITEMAPS",
+      "targetPath": "/terms-of-use-msm-moved",
+      "id": "4253c317cf93b13b07f453d4053042c93b373ab7"
+    },
+    {
+      "url": "https://sunfeastfantastik.com/terms-of-use.html",
+      "source": "SITEMAPS",
+      "targetPath": "/terms-of-use",
+      "id": "64e9e872e5828c166a2d9cef4702e10d078c6340"
+    },
+    {
+      "url": "https://sunfeastfantastik.com/testform.html",
+      "source": "SITEMAPS",
+      "targetPath": "/testform",
+      "id": "668f7a21277374172aaaee6dfc2b014537883b01"
+    },
+    {
+      "url": "https://sunfeastfantastik.com/tpromo.html",
+      "source": "SITEMAPS",
+      "targetPath": "/tpromo",
+      "id": "dc237ef62ed1359d88b07461f8c972a99ab7a1cc"
+    }
+  ],
+  "crawlOptions": {
+    "timeout": 10000,
+    "inclusionPatterns": [],
+    "exclusionPatterns": [],
+    "limit": 100,
+    "sameDomain": true,
+    "keepHash": false,
+    "strategy": "sitemaps",
+    "logger": {},
+    "strategiesAttempted": [
+      "SITEMAPS"
+    ]
+  },
+  "extractionErrors": [
+    {
+      "url": "https://sunfeastfantastik.com/content/sunfeast-fantastik/in/en/dumpyourexcess.html",
+      "status": "301 Moved Permanently Redirect: https://sunfeastfantastik.com/dumpyourexcess.html"
+    },
+    {
+      "url": "https://sunfeastfantastik.com/content/sunfeast-fantastik/in/en/dumpyourexcess/terms-and-conditions.html",
+      "status": "301 Moved Permanently Redirect: https://sunfeastfantastik.com/dumpyourexcess/terms-and-conditions.html"
+    },
+    {
+      "url": "https://sunfeastfantastik.com/content/sunfeast-fantastik/in/en/factorylocator.html",
+      "status": "301 Moved Permanently Redirect: https://sunfeastfantastik.com/factorylocator.html"
+    },
+    {
+      "url": "https://sunfeastfantastik.com/content/sunfeast-fantastik/in/en/homepage_msm_moved.html",
+      "status": "301 Moved Permanently Redirect: https://sunfeastfantastik.com/homepage_msm_moved.html"
+    },
+    {
+      "url": "https://sunfeastfantastik.com/content/sunfeast-fantastik/in/en/privacy-policy_msm_moved.html",
+      "status": "301 Moved Permanently Redirect: https://sunfeastfantastik.com/privacy-policy_msm_moved.html"
+    },
+    {
+      "url": "https://sunfeastfantastik.com/content/sunfeast-fantastik/in/en/privacy-policy.html",
+      "status": "301 Moved Permanently Redirect: https://sunfeastfantastik.com/privacy-policy.html"
+    },
+    {
+      "url": "https://sunfeastfantastik.com/content/sunfeast-fantastik/in/en/raisethebar.html",
+      "status": "301 Moved Permanently Redirect: https://sunfeastfantastik.com/raisethebar.html"
+    },
+    {
+      "url": "https://sunfeastfantastik.com/content/sunfeast-fantastik/in/en/raisethebar/terms-and-conditions.html",
+      "status": "301 Moved Permanently Redirect: https://sunfeastfantastik.com/raisethebar/terms-and-conditions.html"
+    },
+    {
+      "url": "https://sunfeastfantastik.com/content/sunfeast-fantastik/in/en/terms-of-use_msm_moved.html",
+      "status": "301 Moved Permanently Redirect: https://sunfeastfantastik.com/terms-of-use_msm_moved.html"
+    },
+    {
+      "url": "https://sunfeastfantastik.com/content/sunfeast-fantastik/in/en/terms-of-use.html",
+      "status": "301 Moved Permanently Redirect: https://sunfeastfantastik.com/terms-of-use.html"
+    },
+    {
+      "url": "https://sunfeastfantastik.com/content/sunfeast-fantastik/in/en/testform.html",
+      "status": "301 Moved Permanently Redirect: https://sunfeastfantastik.com/testform.html"
+    },
+    {
+      "url": "https://sunfeastfantastik.com/content/sunfeast-fantastik/in/en/tpromo.html",
+      "status": "301 Moved Permanently Redirect: https://sunfeastfantastik.com/tpromo.html"
+    },
+    {
+      "url": "https://sunfeastfantastik.com/content/sunfeast-fantastik/in/en/",
+      "status": "404 Not Found"
+    }
+  ],
+  "errorCountMessage": "{\"E_301\":12,\"E_404\":1}",
+  "error": null
+}
