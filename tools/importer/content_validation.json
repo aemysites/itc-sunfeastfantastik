@@ -1,0 +1,1209 @@
+{
+  "fragments": [
+    {
+      "name": "nav",
+      "path": "/nav",
+      "totalBoxes": 1,
+      "instances": [
+        {
+          "url": "https://sunfeastfantastik.com/privacy-policy_msm_moved.html",
+          "urlHash": "0b101eb56ddf435f6747120d83a57c9b32f7fe8d",
+          "uuid": "0b101eb5-00-7fbf9f0eb64fa78247e2a7b7572f4c008eaee785",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://sunfeastfantastik.com/raisethebar/terms-and-conditions.html",
+          "urlHash": "314064ffdf468f50608851a4e2a7a1f490ef33c2",
+          "uuid": "314064ff-00-7fbf9f0eb64fa78247e2a7b7572f4c008eaee785",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://sunfeastfantastik.com/terms-of-use_msm_moved.html",
+          "urlHash": "4253c317cf93b13b07f453d4053042c93b373ab7",
+          "uuid": "4253c317-00-7fbf9f0eb64fa78247e2a7b7572f4c008eaee785",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://sunfeastfantastik.com/raisethebar.html",
+          "urlHash": "553f51808eeaab1c6d7b9ca21a6243888362bac1",
+          "uuid": "553f5180-00-7fbf9f0eb64fa78247e2a7b7572f4c008eaee785",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://sunfeastfantastik.com/terms-of-use.html",
+          "urlHash": "64e9e872e5828c166a2d9cef4702e10d078c6340",
+          "uuid": "64e9e872-00-7fbf9f0eb64fa78247e2a7b7572f4c008eaee785",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://sunfeastfantastik.com/testform.html",
+          "urlHash": "668f7a21277374172aaaee6dfc2b014537883b01",
+          "uuid": "668f7a21-00-fef4bbcbcf01d9eb13b09c4c2894c97c266913f4",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://sunfeastfantastik.com/dumpyourexcess/terms-and-conditions.html",
+          "urlHash": "7f9092efc38d7db6848bcfe8fe92aed3d98484eb",
+          "uuid": "7f9092ef-00-7fbf9f0eb64fa78247e2a7b7572f4c008eaee785",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://sunfeastfantastik.com/privacy-policy.html",
+          "urlHash": "94410049a8bd4a93e0fe0e5af87ff460137422d7",
+          "uuid": "94410049-00-7fbf9f0eb64fa78247e2a7b7572f4c008eaee785",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://sunfeastfantastik.com/dumpyourexcess.html",
+          "urlHash": "a1eafe2c0beba8309bc32b628826df94e337ff23",
+          "uuid": "a1eafe2c-00-fef4bbcbcf01d9eb13b09c4c2894c97c266913f4",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://sunfeastfantastik.com/factorylocator.html",
+          "urlHash": "cd229c33d03519d39ca4865d467f7e83cd18dc41",
+          "uuid": "cd229c33-00-7fbf9f0eb64fa78247e2a7b7572f4c008eaee785",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://sunfeastfantastik.com/tpromo.html",
+          "urlHash": "dc237ef62ed1359d88b07461f8c972a99ab7a1cc",
+          "uuid": "dc237ef6-00-7fbf9f0eb64fa78247e2a7b7572f4c008eaee785",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://sunfeastfantastik.com/homepage_msm_moved.html",
+          "urlHash": "dfb3957d6ff6e87ba90542a26d5b0f6248682ec8",
+          "uuid": "dfb3957d-00-7fbf9f0eb64fa78247e2a7b7572f4c008eaee785",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]"
+        }
+      ],
+      "styles": {
+        "height": 176,
+        "background": "rgb(38, 16, 0) none repeat scroll 0% 0% / auto padding-box border-box"
+      }
+    },
+    {
+      "name": "footer",
+      "path": "/footer",
+      "totalBoxes": 2,
+      "instances": [
+        {
+          "url": "https://sunfeastfantastik.com/privacy-policy_msm_moved.html",
+          "urlHash": "0b101eb56ddf435f6747120d83a57c9b32f7fe8d",
+          "uuid": "0b101eb5-03-cd2de624c1a4638837dd3109634378f0c8197c4a",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[4]/section[1]/div[1]/section[1]"
+        },
+        {
+          "url": "https://sunfeastfantastik.com/privacy-policy_msm_moved.html",
+          "urlHash": "0b101eb56ddf435f6747120d83a57c9b32f7fe8d",
+          "uuid": "0b101eb5-04-5415b01642d520dc0c931cdec2a9adbef72d22c6",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[4]/section[1]/div[1]/section[2]"
+        },
+        {
+          "url": "https://sunfeastfantastik.com/raisethebar/terms-and-conditions.html",
+          "urlHash": "314064ffdf468f50608851a4e2a7a1f490ef33c2",
+          "uuid": "314064ff-05-17de0cdfffe3cfcaf9c73fd025f11dfa2158abb3",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[6]/section[1]/div[1]/section[1]"
+        },
+        {
+          "url": "https://sunfeastfantastik.com/raisethebar/terms-and-conditions.html",
+          "urlHash": "314064ffdf468f50608851a4e2a7a1f490ef33c2",
+          "uuid": "314064ff-06-08db832f79501c3dc0d4ecbf2453001372cdff6a",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[6]/section[1]/div[1]/section[2]"
+        },
+        {
+          "url": "https://sunfeastfantastik.com/terms-of-use_msm_moved.html",
+          "urlHash": "4253c317cf93b13b07f453d4053042c93b373ab7",
+          "uuid": "4253c317-04-1cb6e3f3086f95d4ccd400cdb83d37dd03f8af44",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[5]/section[1]/div[1]/section[1]"
+        },
+        {
+          "url": "https://sunfeastfantastik.com/terms-of-use_msm_moved.html",
+          "urlHash": "4253c317cf93b13b07f453d4053042c93b373ab7",
+          "uuid": "4253c317-05-5fc4a050e45673e3f111670a18868f9d45a14f6e",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[5]/section[1]/div[1]/section[2]"
+        },
+        {
+          "url": "https://sunfeastfantastik.com/raisethebar.html",
+          "urlHash": "553f51808eeaab1c6d7b9ca21a6243888362bac1",
+          "uuid": "553f5180-07-24e381ea2aa47cc49c6eca3891136f9c4562e317",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[8]/section[1]/div[1]/section[1]"
+        },
+        {
+          "url": "https://sunfeastfantastik.com/raisethebar.html",
+          "urlHash": "553f51808eeaab1c6d7b9ca21a6243888362bac1",
+          "uuid": "553f5180-08-63ec1df6a1e01c44f708345d5176253cb38ad729",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[8]/section[1]/div[1]/section[2]"
+        },
+        {
+          "url": "https://sunfeastfantastik.com/terms-of-use.html",
+          "urlHash": "64e9e872e5828c166a2d9cef4702e10d078c6340",
+          "uuid": "64e9e872-04-1cb6e3f3086f95d4ccd400cdb83d37dd03f8af44",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[5]/section[1]/div[1]/section[1]"
+        },
+        {
+          "url": "https://sunfeastfantastik.com/terms-of-use.html",
+          "urlHash": "64e9e872e5828c166a2d9cef4702e10d078c6340",
+          "uuid": "64e9e872-05-5fc4a050e45673e3f111670a18868f9d45a14f6e",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[5]/section[1]/div[1]/section[2]"
+        },
+        {
+          "url": "https://sunfeastfantastik.com/testform.html",
+          "urlHash": "668f7a21277374172aaaee6dfc2b014537883b01",
+          "uuid": "668f7a21-10-08badc64dfc8c65a2eeaeb4c4bdc42158502097b",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[12]/section[1]/div[1]/section[1]"
+        },
+        {
+          "url": "https://sunfeastfantastik.com/testform.html",
+          "urlHash": "668f7a21277374172aaaee6dfc2b014537883b01",
+          "uuid": "668f7a21-11-f7d33b83650c69f15aa15e71abaca9a36434e383",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[12]/section[1]/div[1]/section[2]"
+        },
+        {
+          "url": "https://sunfeastfantastik.com/dumpyourexcess/terms-and-conditions.html",
+          "urlHash": "7f9092efc38d7db6848bcfe8fe92aed3d98484eb",
+          "uuid": "7f9092ef-05-17de0cdfffe3cfcaf9c73fd025f11dfa2158abb3",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[6]/section[1]/div[1]/section[1]"
+        },
+        {
+          "url": "https://sunfeastfantastik.com/dumpyourexcess/terms-and-conditions.html",
+          "urlHash": "7f9092efc38d7db6848bcfe8fe92aed3d98484eb",
+          "uuid": "7f9092ef-06-08db832f79501c3dc0d4ecbf2453001372cdff6a",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[6]/section[1]/div[1]/section[2]"
+        },
+        {
+          "url": "https://sunfeastfantastik.com/privacy-policy.html",
+          "urlHash": "94410049a8bd4a93e0fe0e5af87ff460137422d7",
+          "uuid": "94410049-03-cd2de624c1a4638837dd3109634378f0c8197c4a",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[4]/section[1]/div[1]/section[1]"
+        },
+        {
+          "url": "https://sunfeastfantastik.com/privacy-policy.html",
+          "urlHash": "94410049a8bd4a93e0fe0e5af87ff460137422d7",
+          "uuid": "94410049-04-5415b01642d520dc0c931cdec2a9adbef72d22c6",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[4]/section[1]/div[1]/section[2]"
+        },
+        {
+          "url": "https://sunfeastfantastik.com/dumpyourexcess.html",
+          "urlHash": "a1eafe2c0beba8309bc32b628826df94e337ff23",
+          "uuid": "a1eafe2c-13-994fbb28934ea045150861b4cf2bed80b68101e4",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[14]/section[1]/div[1]/section[1]"
+        },
+        {
+          "url": "https://sunfeastfantastik.com/dumpyourexcess.html",
+          "urlHash": "a1eafe2c0beba8309bc32b628826df94e337ff23",
+          "uuid": "a1eafe2c-14-f6e42c40417308bba947811cc125df8bae1cd11a",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[14]/section[1]/div[1]/section[2]"
+        },
+        {
+          "url": "https://sunfeastfantastik.com/factorylocator.html",
+          "urlHash": "cd229c33d03519d39ca4865d467f7e83cd18dc41",
+          "uuid": "cd229c33-04-1cb6e3f3086f95d4ccd400cdb83d37dd03f8af44",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[5]/section[1]/div[1]/section[1]"
+        },
+        {
+          "url": "https://sunfeastfantastik.com/factorylocator.html",
+          "urlHash": "cd229c33d03519d39ca4865d467f7e83cd18dc41",
+          "uuid": "cd229c33-05-5fc4a050e45673e3f111670a18868f9d45a14f6e",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[5]/section[1]/div[1]/section[2]"
+        },
+        {
+          "url": "https://sunfeastfantastik.com/tpromo.html",
+          "urlHash": "dc237ef62ed1359d88b07461f8c972a99ab7a1cc",
+          "uuid": "dc237ef6-05-17de0cdfffe3cfcaf9c73fd025f11dfa2158abb3",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[6]/section[1]/div[1]/section[1]"
+        },
+        {
+          "url": "https://sunfeastfantastik.com/tpromo.html",
+          "urlHash": "dc237ef62ed1359d88b07461f8c972a99ab7a1cc",
+          "uuid": "dc237ef6-06-08db832f79501c3dc0d4ecbf2453001372cdff6a",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[6]/section[1]/div[1]/section[2]"
+        },
+        {
+          "url": "https://sunfeastfantastik.com/homepage_msm_moved.html",
+          "urlHash": "dfb3957d6ff6e87ba90542a26d5b0f6248682ec8",
+          "uuid": "dfb3957d-06-3fd6902349ffef4753992a9994260b6e3d552dbc",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[7]/section[1]/div[1]/section[1]"
+        },
+        {
+          "url": "https://sunfeastfantastik.com/homepage_msm_moved.html",
+          "urlHash": "dfb3957d6ff6e87ba90542a26d5b0f6248682ec8",
+          "uuid": "dfb3957d-07-56450b2e7a063a76e5e1ac471f2c8dce80f38090",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[7]/section[1]/div[1]/section[2]"
+        }
+      ],
+      "styles": {}
+    }
+  ],
+  "blocks": [
+    {
+      "name": "header",
+      "cluster": 1,
+      "source": "Header",
+      "target": "Header (header1)",
+      "key": "header1",
+      "instances": [
+        {
+          "url": "https://sunfeastfantastik.com/privacy-policy_msm_moved.html",
+          "urlHash": "0b101eb56ddf435f6747120d83a57c9b32f7fe8d",
+          "uuid": "0b101eb5-00-7fbf9f0eb64fa78247e2a7b7572f4c008eaee785",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://sunfeastfantastik.com/raisethebar/terms-and-conditions.html",
+          "urlHash": "314064ffdf468f50608851a4e2a7a1f490ef33c2",
+          "uuid": "314064ff-00-7fbf9f0eb64fa78247e2a7b7572f4c008eaee785",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://sunfeastfantastik.com/terms-of-use_msm_moved.html",
+          "urlHash": "4253c317cf93b13b07f453d4053042c93b373ab7",
+          "uuid": "4253c317-00-7fbf9f0eb64fa78247e2a7b7572f4c008eaee785",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://sunfeastfantastik.com/raisethebar.html",
+          "urlHash": "553f51808eeaab1c6d7b9ca21a6243888362bac1",
+          "uuid": "553f5180-00-7fbf9f0eb64fa78247e2a7b7572f4c008eaee785",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://sunfeastfantastik.com/terms-of-use.html",
+          "urlHash": "64e9e872e5828c166a2d9cef4702e10d078c6340",
+          "uuid": "64e9e872-00-7fbf9f0eb64fa78247e2a7b7572f4c008eaee785",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://sunfeastfantastik.com/testform.html",
+          "urlHash": "668f7a21277374172aaaee6dfc2b014537883b01",
+          "uuid": "668f7a21-00-fef4bbcbcf01d9eb13b09c4c2894c97c266913f4",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://sunfeastfantastik.com/dumpyourexcess/terms-and-conditions.html",
+          "urlHash": "7f9092efc38d7db6848bcfe8fe92aed3d98484eb",
+          "uuid": "7f9092ef-00-7fbf9f0eb64fa78247e2a7b7572f4c008eaee785",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://sunfeastfantastik.com/privacy-policy.html",
+          "urlHash": "94410049a8bd4a93e0fe0e5af87ff460137422d7",
+          "uuid": "94410049-00-7fbf9f0eb64fa78247e2a7b7572f4c008eaee785",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://sunfeastfantastik.com/dumpyourexcess.html",
+          "urlHash": "a1eafe2c0beba8309bc32b628826df94e337ff23",
+          "uuid": "a1eafe2c-00-fef4bbcbcf01d9eb13b09c4c2894c97c266913f4",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://sunfeastfantastik.com/factorylocator.html",
+          "urlHash": "cd229c33d03519d39ca4865d467f7e83cd18dc41",
+          "uuid": "cd229c33-00-7fbf9f0eb64fa78247e2a7b7572f4c008eaee785",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://sunfeastfantastik.com/tpromo.html",
+          "urlHash": "dc237ef62ed1359d88b07461f8c972a99ab7a1cc",
+          "uuid": "dc237ef6-00-7fbf9f0eb64fa78247e2a7b7572f4c008eaee785",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://sunfeastfantastik.com/homepage_msm_moved.html",
+          "urlHash": "dfb3957d6ff6e87ba90542a26d5b0f6248682ec8",
+          "uuid": "dfb3957d-00-7fbf9f0eb64fa78247e2a7b7572f4c008eaee785",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+          "section": "section-1"
+        }
+      ]
+    },
+    {
+      "name": "Hero",
+      "cluster": 2,
+      "source": "Hero",
+      "target": "Hero (hero2)",
+      "key": "hero2",
+      "instances": [
+        {
+          "url": "https://sunfeastfantastik.com/raisethebar.html",
+          "urlHash": "553f51808eeaab1c6d7b9ca21a6243888362bac1",
+          "uuid": "553f5180-01-50f7171d5cafce5c552b328c24faeb4602c26936",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[2]",
+          "section": "section-6",
+          "differences": [
+            {
+              "element_id": "html__body__div__div__div__div__div_2",
+              "differences": [
+                {
+                  "change_type": "deletion",
+                  "text": "Click to buy now Also available at near by stores"
+                }
+              ],
+              "dissimilarity_score": 1.0
+            }
+          ],
+          "similarity_score": 0.0
+        },
+        {
+          "url": "https://sunfeastfantastik.com/testform.html",
+          "urlHash": "668f7a21277374172aaaee6dfc2b014537883b01",
+          "uuid": "668f7a21-01-20430cbf92461caa699108e489358273f67025bc",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]",
+          "section": "section-5"
+        },
+        {
+          "url": "https://sunfeastfantastik.com/dumpyourexcess.html",
+          "urlHash": "a1eafe2c0beba8309bc32b628826df94e337ff23",
+          "uuid": "a1eafe2c-01-20430cbf92461caa699108e489358273f67025bc",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]",
+          "section": "section-5"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 3,
+      "source": "Cards",
+      "target": "Cards (cards3)",
+      "key": "cards3",
+      "instances": [
+        {
+          "url": "https://sunfeastfantastik.com/testform.html",
+          "urlHash": "668f7a21277374172aaaee6dfc2b014537883b01",
+          "uuid": "668f7a21-06-4a9f47a1b676ed1212863f473bdcd8eaa9e14ff9",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[7]",
+          "section": "section-5"
+        },
+        {
+          "url": "https://sunfeastfantastik.com/dumpyourexcess.html",
+          "urlHash": "a1eafe2c0beba8309bc32b628826df94e337ff23",
+          "uuid": "a1eafe2c-09-c7e621cd1bc64d546e5fc5302e99e241432ffbf3",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[9]",
+          "section": "section-5"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 4,
+      "source": "Columns",
+      "target": "Columns (columns4)",
+      "key": "columns4",
+      "instances": [
+        {
+          "url": "https://sunfeastfantastik.com/raisethebar/terms-and-conditions.html",
+          "urlHash": "314064ffdf468f50608851a4e2a7a1f490ef33c2",
+          "uuid": "314064ff-05-17de0cdfffe3cfcaf9c73fd025f11dfa2158abb3",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[6]/section[1]/div[1]/section[1]",
+          "section": "section-3"
+        },
+        {
+          "url": "https://sunfeastfantastik.com/terms-of-use_msm_moved.html",
+          "urlHash": "4253c317cf93b13b07f453d4053042c93b373ab7",
+          "uuid": "4253c317-04-1cb6e3f3086f95d4ccd400cdb83d37dd03f8af44",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[5]/section[1]/div[1]/section[1]",
+          "section": "section-3"
+        },
+        {
+          "url": "https://sunfeastfantastik.com/raisethebar.html",
+          "urlHash": "553f51808eeaab1c6d7b9ca21a6243888362bac1",
+          "uuid": "553f5180-07-24e381ea2aa47cc49c6eca3891136f9c4562e317",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[8]/section[1]/div[1]/section[1]",
+          "section": "section-3"
+        },
+        {
+          "url": "https://sunfeastfantastik.com/terms-of-use.html",
+          "urlHash": "64e9e872e5828c166a2d9cef4702e10d078c6340",
+          "uuid": "64e9e872-04-1cb6e3f3086f95d4ccd400cdb83d37dd03f8af44",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[5]/section[1]/div[1]/section[1]",
+          "section": "section-3"
+        },
+        {
+          "url": "https://sunfeastfantastik.com/testform.html",
+          "urlHash": "668f7a21277374172aaaee6dfc2b014537883b01",
+          "uuid": "668f7a21-10-08badc64dfc8c65a2eeaeb4c4bdc42158502097b",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[12]/section[1]/div[1]/section[1]",
+          "section": "section-3"
+        },
+        {
+          "url": "https://sunfeastfantastik.com/dumpyourexcess/terms-and-conditions.html",
+          "urlHash": "7f9092efc38d7db6848bcfe8fe92aed3d98484eb",
+          "uuid": "7f9092ef-05-17de0cdfffe3cfcaf9c73fd025f11dfa2158abb3",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[6]/section[1]/div[1]/section[1]",
+          "section": "section-3"
+        },
+        {
+          "url": "https://sunfeastfantastik.com/privacy-policy.html",
+          "urlHash": "94410049a8bd4a93e0fe0e5af87ff460137422d7",
+          "uuid": "94410049-03-cd2de624c1a4638837dd3109634378f0c8197c4a",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[4]/section[1]/div[1]/section[1]",
+          "section": "section-3"
+        },
+        {
+          "url": "https://sunfeastfantastik.com/dumpyourexcess.html",
+          "urlHash": "a1eafe2c0beba8309bc32b628826df94e337ff23",
+          "uuid": "a1eafe2c-13-994fbb28934ea045150861b4cf2bed80b68101e4",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[14]/section[1]/div[1]/section[1]",
+          "section": "section-3"
+        },
+        {
+          "url": "https://sunfeastfantastik.com/tpromo.html",
+          "urlHash": "dc237ef62ed1359d88b07461f8c972a99ab7a1cc",
+          "uuid": "dc237ef6-05-17de0cdfffe3cfcaf9c73fd025f11dfa2158abb3",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[6]/section[1]/div[1]/section[1]",
+          "section": "section-3"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 5,
+      "source": "Columns",
+      "target": "Columns (columns5)",
+      "key": "columns5",
+      "instances": [
+        {
+          "url": "https://sunfeastfantastik.com/privacy-policy_msm_moved.html",
+          "urlHash": "0b101eb56ddf435f6747120d83a57c9b32f7fe8d",
+          "uuid": "0b101eb5-03-cd2de624c1a4638837dd3109634378f0c8197c4a",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[4]/section[1]/div[1]/section[1]",
+          "section": "section-3"
+        },
+        {
+          "url": "https://sunfeastfantastik.com/homepage_msm_moved.html",
+          "urlHash": "dfb3957d6ff6e87ba90542a26d5b0f6248682ec8",
+          "uuid": "dfb3957d-06-3fd6902349ffef4753992a9994260b6e3d552dbc",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[7]/section[1]/div[1]/section[1]",
+          "section": "section-3"
+        }
+      ]
+    },
+    {
+      "name": "Cards (no images)",
+      "cluster": 6,
+      "source": "Cards",
+      "target": "Cards (cardsNoImages6)",
+      "key": "cardsNoImages6",
+      "instances": [
+        {
+          "url": "https://sunfeastfantastik.com/dumpyourexcess.html",
+          "urlHash": "a1eafe2c0beba8309bc32b628826df94e337ff23",
+          "uuid": "a1eafe2c-04-ee1db0e8bdc6ce078cd77db3aee55e001e2b2412",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[5]/div[1]/section[1]/div[1]/div[1]/div[2]/div[1]",
+          "section": "section-8"
+        },
+        {
+          "url": "https://sunfeastfantastik.com/dumpyourexcess.html",
+          "urlHash": "a1eafe2c0beba8309bc32b628826df94e337ff23",
+          "uuid": "a1eafe2c-05-ca41f6329a463d45063be5811d51139d2025d596",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[5]/div[1]/section[1]/div[1]/div[1]/div[2]/div[2]",
+          "section": "section-8"
+        }
+      ]
+    },
+    {
+      "name": "unknown",
+      "cluster": 7,
+      "instances": [
+        {
+          "url": "https://sunfeastfantastik.com/raisethebar.html",
+          "urlHash": "553f51808eeaab1c6d7b9ca21a6243888362bac1",
+          "uuid": "553f5180-03-460e99b418ded283d6f137a05568020125203d4c",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[4]",
+          "section": "section-6"
+        }
+      ],
+      "key": "unknown7"
+    },
+    {
+      "name": "Columns",
+      "cluster": 8,
+      "source": "Columns",
+      "target": "Columns (columns8)",
+      "key": "columns8",
+      "instances": [
+        {
+          "url": "https://sunfeastfantastik.com/factorylocator.html",
+          "urlHash": "cd229c33d03519d39ca4865d467f7e83cd18dc41",
+          "uuid": "cd229c33-04-1cb6e3f3086f95d4ccd400cdb83d37dd03f8af44",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[5]/section[1]/div[1]/section[1]",
+          "section": "section-3"
+        }
+      ]
+    },
+    {
+      "name": "unknown",
+      "cluster": 9,
+      "instances": [
+        {
+          "url": "https://sunfeastfantastik.com/dumpyourexcess.html",
+          "urlHash": "a1eafe2c0beba8309bc32b628826df94e337ff23",
+          "uuid": "a1eafe2c-06-c1d8695edf92ada77fa574ad31a5d1521290f80d",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[6]",
+          "section": "section-5"
+        }
+      ],
+      "key": "unknown9"
+    },
+    {
+      "name": "unknown",
+      "cluster": 10,
+      "instances": [
+        {
+          "url": "https://sunfeastfantastik.com/testform.html",
+          "urlHash": "668f7a21277374172aaaee6dfc2b014537883b01",
+          "uuid": "668f7a21-03-4ab7500164c192cf78b8f22d178fb1f54e057f7a",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[4]",
+          "section": "section-5"
+        }
+      ],
+      "key": "unknown10"
+    }
+  ],
+  "outliers": [
+    {
+      "url": "https://sunfeastfantastik.com/privacy-policy_msm_moved.html",
+      "urlHash": "0b101eb56ddf435f6747120d83a57c9b32f7fe8d",
+      "uuid": "0b101eb5-01-50f7171d5cafce5c552b328c24faeb4602c26936",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[2]",
+      "section": "section-2"
+    },
+    {
+      "url": "https://sunfeastfantastik.com/privacy-policy_msm_moved.html",
+      "urlHash": "0b101eb56ddf435f6747120d83a57c9b32f7fe8d",
+      "uuid": "0b101eb5-02-d5eedff947ca10d7ac5b25e0bf86cbd815249073",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[3]",
+      "section": "section-2"
+    },
+    {
+      "url": "https://sunfeastfantastik.com/privacy-policy_msm_moved.html",
+      "urlHash": "0b101eb56ddf435f6747120d83a57c9b32f7fe8d",
+      "uuid": "0b101eb5-04-5415b01642d520dc0c931cdec2a9adbef72d22c6",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[4]/section[1]/div[1]/section[2]",
+      "section": "section-4"
+    },
+    {
+      "url": "https://sunfeastfantastik.com/raisethebar/terms-and-conditions.html",
+      "urlHash": "314064ffdf468f50608851a4e2a7a1f490ef33c2",
+      "uuid": "314064ff-01-50f7171d5cafce5c552b328c24faeb4602c26936",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[2]",
+      "section": "section-5"
+    },
+    {
+      "url": "https://sunfeastfantastik.com/raisethebar/terms-and-conditions.html",
+      "urlHash": "314064ffdf468f50608851a4e2a7a1f490ef33c2",
+      "uuid": "314064ff-02-d5eedff947ca10d7ac5b25e0bf86cbd815249073",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[3]",
+      "section": "section-5"
+    },
+    {
+      "url": "https://sunfeastfantastik.com/raisethebar/terms-and-conditions.html",
+      "urlHash": "314064ffdf468f50608851a4e2a7a1f490ef33c2",
+      "uuid": "314064ff-03-460e99b418ded283d6f137a05568020125203d4c",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[4]",
+      "section": "section-5"
+    },
+    {
+      "url": "https://sunfeastfantastik.com/raisethebar/terms-and-conditions.html",
+      "urlHash": "314064ffdf468f50608851a4e2a7a1f490ef33c2",
+      "uuid": "314064ff-04-57c7b1aa906601eabe7cb3eea4568f689c81c2f7",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[5]",
+      "section": "section-5"
+    },
+    {
+      "url": "https://sunfeastfantastik.com/raisethebar/terms-and-conditions.html",
+      "urlHash": "314064ffdf468f50608851a4e2a7a1f490ef33c2",
+      "uuid": "314064ff-06-08db832f79501c3dc0d4ecbf2453001372cdff6a",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[6]/section[1]/div[1]/section[2]",
+      "section": "section-4"
+    },
+    {
+      "url": "https://sunfeastfantastik.com/terms-of-use_msm_moved.html",
+      "urlHash": "4253c317cf93b13b07f453d4053042c93b373ab7",
+      "uuid": "4253c317-01-50f7171d5cafce5c552b328c24faeb4602c26936",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[2]",
+      "section": "section-2"
+    },
+    {
+      "url": "https://sunfeastfantastik.com/terms-of-use_msm_moved.html",
+      "urlHash": "4253c317cf93b13b07f453d4053042c93b373ab7",
+      "uuid": "4253c317-02-d5eedff947ca10d7ac5b25e0bf86cbd815249073",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[3]",
+      "section": "section-2"
+    },
+    {
+      "url": "https://sunfeastfantastik.com/terms-of-use_msm_moved.html",
+      "urlHash": "4253c317cf93b13b07f453d4053042c93b373ab7",
+      "uuid": "4253c317-03-460e99b418ded283d6f137a05568020125203d4c",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[4]",
+      "section": "section-2"
+    },
+    {
+      "url": "https://sunfeastfantastik.com/terms-of-use_msm_moved.html",
+      "urlHash": "4253c317cf93b13b07f453d4053042c93b373ab7",
+      "uuid": "4253c317-05-5fc4a050e45673e3f111670a18868f9d45a14f6e",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[5]/section[1]/div[1]/section[2]",
+      "section": "section-4"
+    },
+    {
+      "url": "https://sunfeastfantastik.com/raisethebar.html",
+      "urlHash": "553f51808eeaab1c6d7b9ca21a6243888362bac1",
+      "uuid": "553f5180-02-d5eedff947ca10d7ac5b25e0bf86cbd815249073",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[3]",
+      "section": "section-7"
+    },
+    {
+      "url": "https://sunfeastfantastik.com/raisethebar.html",
+      "urlHash": "553f51808eeaab1c6d7b9ca21a6243888362bac1",
+      "uuid": "553f5180-04-57c7b1aa906601eabe7cb3eea4568f689c81c2f7",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[5]",
+      "section": "section-6"
+    },
+    {
+      "url": "https://sunfeastfantastik.com/raisethebar.html",
+      "urlHash": "553f51808eeaab1c6d7b9ca21a6243888362bac1",
+      "uuid": "553f5180-05-3b27b6f91909629403e8975894d279ae931c0b4c",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[6]",
+      "section": "section-6"
+    },
+    {
+      "url": "https://sunfeastfantastik.com/raisethebar.html",
+      "urlHash": "553f51808eeaab1c6d7b9ca21a6243888362bac1",
+      "uuid": "553f5180-06-bb3368a79da631774b6bc4f3ce54e072db649d3e",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[7]",
+      "section": "section-6"
+    },
+    {
+      "url": "https://sunfeastfantastik.com/raisethebar.html",
+      "urlHash": "553f51808eeaab1c6d7b9ca21a6243888362bac1",
+      "uuid": "553f5180-08-63ec1df6a1e01c44f708345d5176253cb38ad729",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[8]/section[1]/div[1]/section[2]",
+      "section": "section-4"
+    },
+    {
+      "url": "https://sunfeastfantastik.com/terms-of-use.html",
+      "urlHash": "64e9e872e5828c166a2d9cef4702e10d078c6340",
+      "uuid": "64e9e872-01-50f7171d5cafce5c552b328c24faeb4602c26936",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[2]",
+      "section": "section-2"
+    },
+    {
+      "url": "https://sunfeastfantastik.com/terms-of-use.html",
+      "urlHash": "64e9e872e5828c166a2d9cef4702e10d078c6340",
+      "uuid": "64e9e872-02-d5eedff947ca10d7ac5b25e0bf86cbd815249073",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[3]",
+      "section": "section-2"
+    },
+    {
+      "url": "https://sunfeastfantastik.com/terms-of-use.html",
+      "urlHash": "64e9e872e5828c166a2d9cef4702e10d078c6340",
+      "uuid": "64e9e872-03-460e99b418ded283d6f137a05568020125203d4c",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[4]",
+      "section": "section-2"
+    },
+    {
+      "url": "https://sunfeastfantastik.com/terms-of-use.html",
+      "urlHash": "64e9e872e5828c166a2d9cef4702e10d078c6340",
+      "uuid": "64e9e872-05-5fc4a050e45673e3f111670a18868f9d45a14f6e",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[5]/section[1]/div[1]/section[2]",
+      "section": "section-4"
+    },
+    {
+      "url": "https://sunfeastfantastik.com/testform.html",
+      "urlHash": "668f7a21277374172aaaee6dfc2b014537883b01",
+      "uuid": "668f7a21-02-9f136afa3b292f0178a763f24125bf7f979bef71",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[3]",
+      "section": "section-5"
+    },
+    {
+      "url": "https://sunfeastfantastik.com/testform.html",
+      "urlHash": "668f7a21277374172aaaee6dfc2b014537883b01",
+      "uuid": "668f7a21-04-addf0790109e3a5154650390a46aabc348f5f2ac",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[5]",
+      "section": "section-5"
+    },
+    {
+      "url": "https://sunfeastfantastik.com/testform.html",
+      "urlHash": "668f7a21277374172aaaee6dfc2b014537883b01",
+      "uuid": "668f7a21-05-c1d8695edf92ada77fa574ad31a5d1521290f80d",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[6]",
+      "section": "section-5"
+    },
+    {
+      "url": "https://sunfeastfantastik.com/testform.html",
+      "urlHash": "668f7a21277374172aaaee6dfc2b014537883b01",
+      "uuid": "668f7a21-07-96b7ab70877921933f7c4c35e1a361385ee2bb9f",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[8]",
+      "section": "section-5"
+    },
+    {
+      "url": "https://sunfeastfantastik.com/testform.html",
+      "urlHash": "668f7a21277374172aaaee6dfc2b014537883b01",
+      "uuid": "668f7a21-08-121b4c63ed3d1c4c0cdc0e75c3d8c6680dd5f229",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[10]",
+      "section": "section-5"
+    },
+    {
+      "url": "https://sunfeastfantastik.com/testform.html",
+      "urlHash": "668f7a21277374172aaaee6dfc2b014537883b01",
+      "uuid": "668f7a21-09-0016100e4edac14891708b829bb028cadebbf5bd",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[11]",
+      "section": "section-5"
+    },
+    {
+      "url": "https://sunfeastfantastik.com/testform.html",
+      "urlHash": "668f7a21277374172aaaee6dfc2b014537883b01",
+      "uuid": "668f7a21-11-f7d33b83650c69f15aa15e71abaca9a36434e383",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[12]/section[1]/div[1]/section[2]",
+      "section": "section-4"
+    },
+    {
+      "url": "https://sunfeastfantastik.com/dumpyourexcess/terms-and-conditions.html",
+      "urlHash": "7f9092efc38d7db6848bcfe8fe92aed3d98484eb",
+      "uuid": "7f9092ef-01-50f7171d5cafce5c552b328c24faeb4602c26936",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[2]",
+      "section": "section-5"
+    },
+    {
+      "url": "https://sunfeastfantastik.com/dumpyourexcess/terms-and-conditions.html",
+      "urlHash": "7f9092efc38d7db6848bcfe8fe92aed3d98484eb",
+      "uuid": "7f9092ef-02-d5eedff947ca10d7ac5b25e0bf86cbd815249073",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[3]",
+      "section": "section-5"
+    },
+    {
+      "url": "https://sunfeastfantastik.com/dumpyourexcess/terms-and-conditions.html",
+      "urlHash": "7f9092efc38d7db6848bcfe8fe92aed3d98484eb",
+      "uuid": "7f9092ef-03-460e99b418ded283d6f137a05568020125203d4c",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[4]",
+      "section": "section-5"
+    },
+    {
+      "url": "https://sunfeastfantastik.com/dumpyourexcess/terms-and-conditions.html",
+      "urlHash": "7f9092efc38d7db6848bcfe8fe92aed3d98484eb",
+      "uuid": "7f9092ef-04-57c7b1aa906601eabe7cb3eea4568f689c81c2f7",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[5]",
+      "section": "section-5"
+    },
+    {
+      "url": "https://sunfeastfantastik.com/dumpyourexcess/terms-and-conditions.html",
+      "urlHash": "7f9092efc38d7db6848bcfe8fe92aed3d98484eb",
+      "uuid": "7f9092ef-06-08db832f79501c3dc0d4ecbf2453001372cdff6a",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[6]/section[1]/div[1]/section[2]",
+      "section": "section-4"
+    },
+    {
+      "url": "https://sunfeastfantastik.com/privacy-policy.html",
+      "urlHash": "94410049a8bd4a93e0fe0e5af87ff460137422d7",
+      "uuid": "94410049-01-50f7171d5cafce5c552b328c24faeb4602c26936",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[2]",
+      "section": "section-2"
+    },
+    {
+      "url": "https://sunfeastfantastik.com/privacy-policy.html",
+      "urlHash": "94410049a8bd4a93e0fe0e5af87ff460137422d7",
+      "uuid": "94410049-02-d5eedff947ca10d7ac5b25e0bf86cbd815249073",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[3]",
+      "section": "section-2"
+    },
+    {
+      "url": "https://sunfeastfantastik.com/privacy-policy.html",
+      "urlHash": "94410049a8bd4a93e0fe0e5af87ff460137422d7",
+      "uuid": "94410049-04-5415b01642d520dc0c931cdec2a9adbef72d22c6",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[4]/section[1]/div[1]/section[2]",
+      "section": "section-4"
+    },
+    {
+      "url": "https://sunfeastfantastik.com/dumpyourexcess.html",
+      "urlHash": "a1eafe2c0beba8309bc32b628826df94e337ff23",
+      "uuid": "a1eafe2c-02-9f136afa3b292f0178a763f24125bf7f979bef71",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[3]",
+      "section": "section-5"
+    },
+    {
+      "url": "https://sunfeastfantastik.com/dumpyourexcess.html",
+      "urlHash": "a1eafe2c0beba8309bc32b628826df94e337ff23",
+      "uuid": "a1eafe2c-03-4ab7500164c192cf78b8f22d178fb1f54e057f7a",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[4]",
+      "section": "section-5"
+    },
+    {
+      "url": "https://sunfeastfantastik.com/dumpyourexcess.html",
+      "urlHash": "a1eafe2c0beba8309bc32b628826df94e337ff23",
+      "uuid": "a1eafe2c-07-4a9f47a1b676ed1212863f473bdcd8eaa9e14ff9",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[7]",
+      "section": "section-5"
+    },
+    {
+      "url": "https://sunfeastfantastik.com/dumpyourexcess.html",
+      "urlHash": "a1eafe2c0beba8309bc32b628826df94e337ff23",
+      "uuid": "a1eafe2c-08-96b7ab70877921933f7c4c35e1a361385ee2bb9f",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[8]",
+      "section": "section-5"
+    },
+    {
+      "url": "https://sunfeastfantastik.com/dumpyourexcess.html",
+      "urlHash": "a1eafe2c0beba8309bc32b628826df94e337ff23",
+      "uuid": "a1eafe2c-10-121b4c63ed3d1c4c0cdc0e75c3d8c6680dd5f229",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[10]",
+      "section": "section-5"
+    },
+    {
+      "url": "https://sunfeastfantastik.com/dumpyourexcess.html",
+      "urlHash": "a1eafe2c0beba8309bc32b628826df94e337ff23",
+      "uuid": "a1eafe2c-11-5a0934baae0cf8ed53708c04202419e92d033eaf",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[12]",
+      "section": "section-5"
+    },
+    {
+      "url": "https://sunfeastfantastik.com/dumpyourexcess.html",
+      "urlHash": "a1eafe2c0beba8309bc32b628826df94e337ff23",
+      "uuid": "a1eafe2c-12-3e8ad9811ec63f480d151c2eb4ab9d45fea3e956",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[13]",
+      "section": "section-5"
+    },
+    {
+      "url": "https://sunfeastfantastik.com/dumpyourexcess.html",
+      "urlHash": "a1eafe2c0beba8309bc32b628826df94e337ff23",
+      "uuid": "a1eafe2c-14-f6e42c40417308bba947811cc125df8bae1cd11a",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[14]/section[1]/div[1]/section[2]",
+      "section": "section-4"
+    },
+    {
+      "url": "https://sunfeastfantastik.com/factorylocator.html",
+      "urlHash": "cd229c33d03519d39ca4865d467f7e83cd18dc41",
+      "uuid": "cd229c33-01-50f7171d5cafce5c552b328c24faeb4602c26936",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[2]",
+      "section": "section-2"
+    },
+    {
+      "url": "https://sunfeastfantastik.com/factorylocator.html",
+      "urlHash": "cd229c33d03519d39ca4865d467f7e83cd18dc41",
+      "uuid": "cd229c33-02-d5eedff947ca10d7ac5b25e0bf86cbd815249073",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[3]",
+      "section": "section-2"
+    },
+    {
+      "url": "https://sunfeastfantastik.com/factorylocator.html",
+      "urlHash": "cd229c33d03519d39ca4865d467f7e83cd18dc41",
+      "uuid": "cd229c33-03-460e99b418ded283d6f137a05568020125203d4c",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[4]",
+      "section": "section-2"
+    },
+    {
+      "url": "https://sunfeastfantastik.com/factorylocator.html",
+      "urlHash": "cd229c33d03519d39ca4865d467f7e83cd18dc41",
+      "uuid": "cd229c33-05-5fc4a050e45673e3f111670a18868f9d45a14f6e",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[5]/section[1]/div[1]/section[2]",
+      "section": "section-4"
+    },
+    {
+      "url": "https://sunfeastfantastik.com/tpromo.html",
+      "urlHash": "dc237ef62ed1359d88b07461f8c972a99ab7a1cc",
+      "uuid": "dc237ef6-01-50f7171d5cafce5c552b328c24faeb4602c26936",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[2]",
+      "section": "section-5"
+    },
+    {
+      "url": "https://sunfeastfantastik.com/tpromo.html",
+      "urlHash": "dc237ef62ed1359d88b07461f8c972a99ab7a1cc",
+      "uuid": "dc237ef6-02-d5eedff947ca10d7ac5b25e0bf86cbd815249073",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[3]",
+      "section": "section-5"
+    },
+    {
+      "url": "https://sunfeastfantastik.com/tpromo.html",
+      "urlHash": "dc237ef62ed1359d88b07461f8c972a99ab7a1cc",
+      "uuid": "dc237ef6-03-460e99b418ded283d6f137a05568020125203d4c",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[4]",
+      "section": "section-5"
+    },
+    {
+      "url": "https://sunfeastfantastik.com/tpromo.html",
+      "urlHash": "dc237ef62ed1359d88b07461f8c972a99ab7a1cc",
+      "uuid": "dc237ef6-04-57c7b1aa906601eabe7cb3eea4568f689c81c2f7",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[5]",
+      "section": "section-5"
+    },
+    {
+      "url": "https://sunfeastfantastik.com/tpromo.html",
+      "urlHash": "dc237ef62ed1359d88b07461f8c972a99ab7a1cc",
+      "uuid": "dc237ef6-06-08db832f79501c3dc0d4ecbf2453001372cdff6a",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[6]/section[1]/div[1]/section[2]",
+      "section": "section-4"
+    },
+    {
+      "url": "https://sunfeastfantastik.com/homepage_msm_moved.html",
+      "urlHash": "dfb3957d6ff6e87ba90542a26d5b0f6248682ec8",
+      "uuid": "dfb3957d-01-50f7171d5cafce5c552b328c24faeb4602c26936",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[2]",
+      "section": "section-2"
+    },
+    {
+      "url": "https://sunfeastfantastik.com/homepage_msm_moved.html",
+      "urlHash": "dfb3957d6ff6e87ba90542a26d5b0f6248682ec8",
+      "uuid": "dfb3957d-02-d5eedff947ca10d7ac5b25e0bf86cbd815249073",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[3]",
+      "section": "section-2"
+    },
+    {
+      "url": "https://sunfeastfantastik.com/homepage_msm_moved.html",
+      "urlHash": "dfb3957d6ff6e87ba90542a26d5b0f6248682ec8",
+      "uuid": "dfb3957d-03-460e99b418ded283d6f137a05568020125203d4c",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[4]",
+      "section": "section-2"
+    },
+    {
+      "url": "https://sunfeastfantastik.com/homepage_msm_moved.html",
+      "urlHash": "dfb3957d6ff6e87ba90542a26d5b0f6248682ec8",
+      "uuid": "dfb3957d-04-57c7b1aa906601eabe7cb3eea4568f689c81c2f7",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[5]",
+      "section": "section-2"
+    },
+    {
+      "url": "https://sunfeastfantastik.com/homepage_msm_moved.html",
+      "urlHash": "dfb3957d6ff6e87ba90542a26d5b0f6248682ec8",
+      "uuid": "dfb3957d-05-3b27b6f91909629403e8975894d279ae931c0b4c",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[6]",
+      "section": "section-2"
+    },
+    {
+      "url": "https://sunfeastfantastik.com/homepage_msm_moved.html",
+      "urlHash": "dfb3957d6ff6e87ba90542a26d5b0f6248682ec8",
+      "uuid": "dfb3957d-07-56450b2e7a063a76e5e1ac471f2c8dce80f38090",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[7]/section[1]/div[1]/section[2]",
+      "section": "section-4"
+    }
+  ],
+  "pages": [
+    {
+      "url": "https://sunfeastfantastik.com/dumpyourexcess/terms-and-conditions.html",
+      "differences": [
+        {
+          "change_type": "equal",
+          "text": "THIS PAGE CONTAINS THE TERMS AND CONDITIONS TO THE SUNFEAST FANTASTIK DUMP YOUR EXCESS CONTEST Terms and conditions ABOUT THE CONTEST 1. The \u201cSunfeast Fantastik Dump Your Excess\u201d (the \u201cContest\u201d) is organised by ITC Limited (\u201cITC\u201d). 2. Consumers participating or seeking to participate in the Contest shall individually be referred to as \u201cParticipant\u201d and collectively as \u201cParticipants\u201d. 3. If you are a Participant below the age of 18 years, your parent(s)/legal guardian hereby provide consent on your behalf to enter into the Contest and to stand a chance to win prizes as per the terms & conditions set forth herein. Failure to provide such consent will result in disqualification from this Contest. 4. Participation in this Contest is purely voluntary. By participating in this Contest, each Participant is deemed to have accepted the complete terms and conditions of this Contest available on https://sunfeastfantastik.com/dumpyourexcess.html as well as the decisions of ITC, which are final and binding in all matters related to the Contest. Successfully entering the Contest and winning a prize is subject to all requirements set forth herein. 5. ITC reserves right to terminate, modify or extend this Contest, at its absolute discretion, without assigning any reason whatsoever including extending, withdrawing, or discontinuing the same without notice, at its sole and absolute discretion and without any liability. All decisions of ITC in respect of the Contest and the prizes therein will be final and binding. 6. The Contest shall be live from 00:00 hours on Febraury 7th, 2025 and end at 11:59 hours on Febraury 14th, 2025[ES1] 7. The Contest is subject to all applicable central, state and local laws and regulations. 8. Purchase of the Sunfeast Fantastik 4D pack is not required to participate in this Contest. 9. The Contest shall be run on the sunfeastfantastik Instagram profile and the Fantastik website available on https://sunfeastfantastik.com/dumpyourexcess.html 10. This Contest is in no way sponsored, endorsed, administed by or associated with Instagram. Each Participant is deemed to have released Instagram from any claims and liabilities that may specifically arise in relation to their participation in this Contest by accepting these terms & conditions. ELIGIBILITY 11. Only Indian citizens residing in India are eligible to participate in this Contest. Participants below the age of 18 years can participate only with the consent of their parent(s)/legal guardian. 12. In order to be eligible for the prize, all Participants will be required to have valid address proof, government issued photo identity proof such as PAN Card/ Driver\u2019s license/Voter ID/valid passport etc, or parent(s)/legal guardian\u2019s consent, if applicable, a copy of which will have to be submitted at the request of ITC, without which the Participant will be disqualified from the Contest. 13. ITC reserves the right to exclude any person from the Contest on the grounds of: (i) misconduct or criminal record; (ii) tampering with the Entry process or the operation of Contest; (iii) acting in violation of these terms and conditions; (iv) acting in an unsportsmanlike or disruptive manner or with intent to annoy, abuse, threaten or harass any other person; or (v) for any other reasons, as it may deem fit and proper. No communication in this regard will be entertained. STEPS TO PARTICIPATE 14. To participate in the Contest, a Participants should follow the following steps: a) Participants may also enter into this Contest by visiting this portal ( https://sunfeastfantastik.com/dumpyourexcess.html ) and providing the comment on the portal. b) Participants who are below the age of 13 can participate using their parent(s)/legal guardian\u2019s Instagram account. 15. Comments must inter alia comply with the following guidelines: a) All comments submitted must comply with these Terms & Conditions and terms of use of the Contest Website; b) Cannot be sexually explicit or suggestive, violent or derogatory of any ethnic, racial, gender, religious, professional or age group, profane or pornographic, or contain nudity; c) Cannot promote alcohol, illegal drugs, firearms/weapons (or the use of any of the foregoing), any activities that may appear unsafe or dangerous, or any particular political agenda or message; d) Cannot be obscene or offensive, endorse any form of hate or hate group; e) Cannot promote terrorist acts such as providing instructions on how to assemble bombs, grenades and other such weapons or provide instructional information about illegal activities; f) Cannot defame, misrepresent or contain disparaging or slanderous remarks about ITC, its customers or its products, or other people, products or companies; g) Must be original and cannot contain copyrighted materials owned by others (including photographs, sculptures, paintings and other works of art, stills, or images published on or in television, movies, the Internet or other media) without permission and cannot be plagiarized from any source; h) Cannot contain background artwork, unless it is an original work of the Participant; i) Cannot communicate messages or images inconsistent with the positive images and/or goodwill to which ITC wishes to associate; j) Cannot depict, and cannot itself, be in violation of any law. k) Participants making statements which are contrary to existing law, bye-laws, public policy or established good practices shall be disqualified from further participating in the Contest. SELECTION OF WINNERS 16. 4 winners will win a prize from ITC. 17. The winners will be chosen by judges appointed by the ITC Sunfeast Fantastik brand team based on the creativity of the comments. The decision of the judges shall be final and binding upon all the participants. PRIZE 18. For the purpose of this Contest, \u201cWinners\u201d mens Participants who have won the Prize. \u201cPrize\u201d means the Prize won by a Winner(s), details of which are elaborated in Clause 19 below. 19. \u201cPrize\u201d: Selected winners based on the most creative comments chosen as per ITC\u2019s discretion will get to feature in an Instagram post or story (as chosen by ITC) at the end of the Contest period. CONTACTING WINNERS 20. Post the completion of the Contest, ITC shall contact each Participant who has won. ITC will inform the Participant by a message via Instagram that they have won the prize. The Winner is required to provide their mobile number and any other details as may be requested. These details are required for the Winner to be contacted. Without these details, the Winner shall stand disqualified from the Contest. 21. In the event the Winner does not respond to the message in 3 days, the Winner\u2019s participation in the Contest comes to an end and the Winner\u2019s entry stands cancelled and Winner becomes ineligible to receive the prize. In such an event, another Winner will be shortlisted by ITC. 22. The Winners will have to provide a copy of their or their parent(s)/legal guardian\u2019s address proof such as valid passport, voter card, or driver\u2019s license, a copy of which will have to be submitted at the request of ITC, without which the Participant may be disqualified from the Contest. 23. No Prize will be awarded if the information provided by the Participant at the time of entering the Contest is not factually correct. The prize will be awarded to the Winner only after the formalities mentioned herein are fulfilled. 24. The list of those Winners whose details have been verified shall be published at ( https://sunfeastfantastik.com/dumpyourexcess.html ) after the Contest, on 16 th Febraury date . 25. By sharing their/their parent(s)/legal guardian\u2019s personal information with ITC, the Participants/their parent(s)/legal guardian consent to collection, storing, processing and use of personal information i.e. name, address, mobile phone number by ITC, its affiliates, associates, agents, contractors and other third parties. The personal information is being collected by [ES6] ITC and shall be retained by ITC. 26. Personal information given by the Participants/ their parent(s)/legal guardians shall be used to deliver prizes and for promotional activities by ITC Ltd its affiliates, associates, agents, contractors. 27. By participating in this Contest, the Participants/their parent(s)/legal guardians acknowledge and consent to transfer and/or disclosure of their personal information by ITC to any third-party for providing services in relation to this Contest. 28. The Participants have an option of not providing the personal information as required under this Contest. The Participants also have an option to withdraw their consent in relation to usage of Personal Information during the duration of the Contest. In such cases, the entry of the Participant shall not be considered and Participant shall not be eligible for the prize. The participants may reach out to ItcCares.Orm@associatemail.in for such withdrawals. PUBLICITY 29. The Participant undertakes and irrevocably and unconditionally permits ITC to cover the Contest through various media including newspapers, radio television news channels, internet, point of sale materials, etc., and shall not raise any objection, protest or demur to such coverage or in this regard. 30. At the request of ITC, Participants shall participate in all activities relating to the Contest surrounding the winning of the Prize, free of charge including participating in any photography/videography session, interviews etc., and they consent to ITC using their name and image in promotional material. 31. By participating in the Contest, all Participants agree that ITC shall be at liberty to use the Participant\u2019s name and/or photo and/or video and/or entry and that may appear in any advertisements/promotions/media coverage or publicity in any form which exists today or will be known anytime in the future, without any consideration to the Participant and/or the Winners. No fees or other sums are to be paid to the Participants or Winners on account of taking part in the aforementioned advertisements / promotions and they shall not raise any objection, protest or demur to such coverage or in this regard. TERMS & CONDITIONS FOR THE PRIZE 32. The Prize Winner shall follow the instructions given by or on behalf of ITC, when a message is sent to him/her by ITC informing him/her in the event of his/her selection as the prize Winner. 33. Award of Prize is subject to the verification of documents such as (government Photo-ID proof such as valid Indian passport /residence proof/ Driver\u2019s license PAN card and/or such other documents as may be requested and submitted by the prize Winner. After verification the prize Winner will be informed about the entire process of redemption of the Prize. GENERAL CONDITIONS 34. The decision of ITC, as regards the selection of Winners and distribution of the prizes shall be final, subject only to ITC\u2019s approval. No correspondence or any other claims whatsoever, in this regard will be entertained. 35. All right, title and interest, including but not limited to, the intellectual property rights in the Contest and the promotional materials, all data collected as a result of this Contest and in any and all responses received shall vest solely and exclusively with ITC. ITC shall be entitled to use the responses received or any information in connection with the Entry in any media for future promotional, marketing, publicity and any other purpose without permission or payment to the Participant. 36. All material submitted in connection with the Contest are assigned to ITC upon submission and become of the property of ITC exclusively. ITC may use such material in the manner as it may deem fit. 37. ITC reserves the right to change, defer, alter or cancel this Contest in part or full, or change any or all of the terms and conditions that are applicable, without giving prior intimation/notice of any kind and will not be liable for any consequential losses/damages. Any decision of ITC in this regard and in general with respect to this Contest and the terms and conditions thereto shall be final, binding and non-contestable. 38. The decision of ITC shall be final in all regards and no communication shall be entertained in this regard. None of the provisions of these Terms and Conditions shall be deemed to constitute a partnership or agency between any Participant and ITC and the Participant shall not have the authority to bind ITC in any manner whatsoever. 39. ITC shall be accountable/liable for any disruptions/stoppages/interruptions or cancellation of the Contest due to any government restrictions. 40. Failure to exercise or delay in exercising a right or remedy provided hereunder or by law does not constitute a waiver of the right or remedy or waiver of other rights or remedies on the part of ITC. 41. ITC accepts no responsibility for loss of internet connectivity, claims or correspondence whether due to error, omission, alteration, tampering, unauthorized data hacking, deletion, theft, destruction, virus attack, transmission interruption, communications failure, hardware failure or otherwise. ITC shall not be liable for any consequences of user error including (without limitation) costs incurred. RELEASE AND LIMITATIONS OF LIABILITY 42. ITC shall under no circumstances be liable, whether jointly or severally, for any loss or damage suffered or sustained (including but not limited to consequential loss), including for personal injury or property damage suffered or sustained or any costs incurred, as a result of acceptance of any Prize. 43. By entering the Contest, the Participant hereby releases from and agrees to indemnify ITC and/ or any of its respective officers/employees from and against all liability, cost, loss or expense arising out of acceptance of the prize or participation in the Contest including (but not limited to) personal injury and damage to property and whether direct, indirect, consequential, foreseeable, due to some negligent act or omission, or otherwise. 44. ITC accepts no liability, whether jointly or severally, for any errors or omissions, whether on behalf of itself, or third parties in relation to the prizes. DISPUTES 45. The courts of competent jurisdiction at Bengaluru shall have exclusive jurisdiction to determine any and all disputes arising out of, or in connection with the Contest. 46. Further all issues and questions concerning the construction, validity, interpretation and enforceability of these terms and conditions, or the rights and obligations of the Participants and/or ITC and/or Partners of this Contest, shall be governed and construed in accordance with the laws of India."
+        }
+      ],
+      "similarity_score": 0.9999999999999998
+    },
+    {
+      "url": "https://sunfeastfantastik.com/factorylocator.html",
+      "differences": [
+        {
+          "change_type": "equal",
+          "text": "FOR BRAND OWNER\u2019S ADDRESS, MANUFACTURING AND/OR PACKAGING UNITS\u2019 FSSAI LICENSE NUMBER & ADDRESS, PLEASE SEE BELOW For the Manufacturing and/or Packaging Units\u2019 FSSAI License Number & Address, Match the First Character of the Batch No./B. No. printed on the package with the corresponding Alphabet mentioned before the Manufacturing Unit and/or Packaging Unit given below. H - ITC Limited., Food Unit-II, Plot No. 1, Sector 11, IIE, Ranipur, Sidcul, Hardwar, Uttarakhand-249403 Lic. No. 10017012000402 R - Kamala Consumer Care Private Limited - SY. No. 160, Kothur Village & Mandal, Rangareddi, Telangana - 509228 Lic. No. 10014047000377 G \u2013 Gandour India Food Processing Pvt. Ltd., SY. No. 172 & 173, Phase IV, IDA Cherlapally, Rangareddy District, Medchal \u2013 Malkajgiri, Telangana \u2013 500051 Lic. No. \u2013 10014047000053 J - ITC Limited, Khasra Nos. 74, 78, 117, Bari Brahmana, Village Rakh Rajpur, Samba, Samba - 181133 Lic. No. 11023999000023 W \u2013 SWG Industries Limited, Plot No. 8, Sector 1, IIE, Rudrapur, Kichha, Udham Singh Nagar, Uttarakhand-263153 Lic. No. 10012012000223 S - Rajhans Nutriments Pvt. Ltd., Branch Code-1, Block No-555, Paikee-2, Vill-Mahuveg, Mangrol, Surat, Gujarat-394110 Lic. No. 10013021000847 REPACKING BY : N - Nevaeh First Source Solutions Private Limited - Plot No. 100, Sector 5, IIE, Sidcul, Hardwar, Uttarakhand-249403 Lic. No. 12621999000017 Brand Owner\u2019s Address - Marketed By: ITC Limited, 37, J.L Nehru Road, Kolkata \u2013 700071, India Lic. No. 10012031000312."
+        }
+      ],
+      "similarity_score": 1.0000000000000007
+    },
+    {
+      "url": "https://sunfeastfantastik.com/homepage_msm_moved.html",
+      "differences": [
+        {
+          "change_type": "equal",
+          "text": "FOR BRAND OWNER\u2019S ADDRESS, MANUFACTURING UNITS\u2019 FSSAI LICENSE NUMBER & ADDRESS, PLEASE SEE BELOW: For the Manufacturing Units\u2019 FSSAI License Number & Address, Match the first character of the Batch No./B. No. printed on the package with the corresponding alphabet mentioned before the Manufacturing Unit given below. H - ITC Limited., Food Unit-II, Plot No. 1, Sector 11, IIE, Ranipur, Sidcul, Haridwar, Uttarakhand-249403 Lic. No. 10017012000402 K - Kamala Consumer Care Private Limited - SY. No. 160, Kothur Village & Mandal, Rangareddi, Telangana - 509228 Lic. No. 10014047000377 G \u2013 Gandour India Food Processing Pvt. Ltd., SY. No. 172 & 173, Phase IV, IDA, Cherlapally, Medchal, Medchal \u2013 Malkajgiri, Telangana \u2013 500051 Lic. No. 10014047000053 J - ITC Limited, Khasra Nos. 74, 78, 117, Bari Brahmana, Village Rakh Rajpur, Samba, Samba - 181133 Lic. No. 11023999000023 W \u2013 SWG Industries Limited, Plot No. 8, Sector 1, IIE, Rudrapur, Kichha, Udham Singh Nagar, Uttarakhand-263153 Lic. No. 10012012000223 Brand Owner\u2019s Address - Marketed By: ITC Limited, 37, J.L Nehru Road, Kolkata \u2013 700071, India Lic. No. 10012031000312."
+        }
+      ],
+      "similarity_score": 1.0000000000000007
+    },
+    {
+      "url": "https://sunfeastfantastik.com/privacy-policy_msm_moved.html",
+      "differences": [
+        {
+          "change_type": "equal",
+          "text": "Privacy Policy ITC Limited welcomes you to its website and looks forward to a meaningful interaction with you. ITC Limited respects an individual's right to privacy. This policy lays down our practices with respect to confidentiality and disclosure of personal information. Please familiarize yourself with our privacy practices, as given below. Should you choose to share your personal information with ITC Limited, it will be assumed that you have no objection to the terms of this privacy policy. Collection of Personal Information ITC Limited collects personal information only when it is required for business purposes. While collecting any personal information, ITC Limited indicates the purpose of collection of such information and obtains the consent of the provider of the information in writing. ITC Limited gives the person providing the information an option of not providing the information. He also has the option of withdrawing his consent given earlier. In such cases, ITC Limited may choose not to provide any services/supply goods for which the information was necessary. While collecting information, ITC Limited or any entity authorized on its behalf to collect information takes such steps as are, in the circumstances, reasonable to ensure that the person providing the information has the knowledge of - the fact that the information is being collected the purpose for which the information is being collected; and the intended recipients of the information The providers of information are permitted, as and when requested by them, to review the information they had provided. Confidentiality and Disclosure of personal information The terms of confidentiality and disclosure of personal information will be recorded in the non-disclosure agreement that may be entered into with the provider of the information. ITC Limited has also adopted reasonable security practices and procedures comprising of managerial, technical, operational and physical security control measures with a view to ensure confidentiality and prevent unauthorized disclosure of personal information. ITC Limited uses the personal information only for the purpose for which the same has been furnished. ITC Limited does not retain information after the purpose for which it is furnished is accomplished unless the same is required to be retained under any law in force or for audit purposes. In such cases also, confidentiality of such information is maintained. Policy for Website usage Any personal information shared by you in this Website shall be kept confidential in accordance with ITC Limited's reasonable security practices and procedures. Personal information, shared by you, shall be used for doing the intended business with you. ITC Limited assures you that in the event of your personal information being shared by ITC Limited with its subsidiaries, business associates etc., such sharing of information shall be for the purpose of doing the intended business with you. You hereby grant your consent to ITC Limited to share such information with its subsidiaries, business associates etc. ITC Limited reserves its rights to collect, analyse and disseminate aggregate site usage patterns of all its visitors with a view to enhance its services to the visitors. This includes sharing the information with its subsidiaries and business associates as a general business practice. In the course of its business, ITC Limited may hold on-line contests and surveys as permitted by law and it reserves its right to use and disseminate the information so collected to enhance its services to the visitors. This shall also include sharing the information with its subsidiaries and business associates as a general business practice. Cookies: - To personalize your experience on ITC Limited's Website or to support one of its promotions, ITC Limited may assign your computer browser a unique random number (cookie). \"Cookies\" enhance website performance in important ways like personalizing your experience, or making your visit more convenient. Your privacy and security will not be compromised when you accept a \"cookie\" from ITC Limited's Website. ITC Limited shall not be responsible in any manner whatsoever for any violation or misuse of your personal information by unauthorised persons consequent to misuse of the internet environment."
+        }
+      ],
+      "similarity_score": 1.0000000000000007
+    },
+    {
+      "url": "https://sunfeastfantastik.com/raisethebar.html",
+      "differences": [
+        {
+          "change_type": "deletion",
+          "text": ". "
+        },
+        {
+          "change_type": "equal",
+          "text": "Click to buy now Also available at near by stores Name"
+        },
+        {
+          "change_type": "deletion",
+          "text": " * ! +"
+        },
+        {
+          "change_type": "insertion",
+          "text": "* Enter name ! +"
+        },
+        {
+          "change_type": "equal",
+          "text": "91 - Mobile Number"
+        },
+        {
+          "change_type": "deletion",
+          "text": " * ! "
+        },
+        {
+          "change_type": "insertion",
+          "text": "* Enter Mobile Number ! Email ID* Enter "
+        },
+        {
+          "change_type": "equal",
+          "text": "Email ID"
+        },
+        {
+          "change_type": "deletion",
+          "text": " * ! "
+        },
+        {
+          "change_type": "insertion",
+          "text": " ! "
+        },
+        {
+          "change_type": "equal",
+          "text": "How will you raise the bar on your next date"
+        },
+        {
+          "change_type": "deletion",
+          "text": "? * "
+        },
+        {
+          "change_type": "insertion",
+          "text": "?* "
+        },
+        {
+          "change_type": "equal",
+          "text": "Choose one option"
+        },
+        {
+          "change_type": "deletion",
+          "text": " : "
+        },
+        {
+          "change_type": "insertion",
+          "text": " : [ ] "
+        },
+        {
+          "change_type": "equal",
+          "text": "Take him/her to a concert"
+        },
+        {
+          "change_type": "deletion",
+          "text": " "
+        },
+        {
+          "change_type": "insertion",
+          "text": " [ ] "
+        },
+        {
+          "change_type": "equal",
+          "text": "Take him/her to an arcade to play games"
+        },
+        {
+          "change_type": "deletion",
+          "text": " "
+        },
+        {
+          "change_type": "insertion",
+          "text": " [ ] "
+        },
+        {
+          "change_type": "equal",
+          "text": "Take him/her to a restaurant"
+        },
+        {
+          "change_type": "deletion",
+          "text": " "
+        },
+        {
+          "change_type": "insertion",
+          "text": " [ ] "
+        },
+        {
+          "change_type": "equal",
+          "text": "Chill at home"
+        },
+        {
+          "change_type": "deletion",
+          "text": " "
+        },
+        {
+          "change_type": "insertion",
+          "text": " [ ] "
+        },
+        {
+          "change_type": "equal",
+          "text": "Take him/her out for a movie Explain why you will choose so? Answer"
+        },
+        {
+          "change_type": "deletion",
+          "text": " * "
+        },
+        {
+          "change_type": "insertion",
+          "text": "* "
+        },
+        {
+          "change_type": "equal",
+          "text": "0 of 500"
+        },
+        {
+          "change_type": "deletion",
+          "text": " ! "
+        },
+        {
+          "change_type": "insertion",
+          "text": " ! [ ] "
+        },
+        {
+          "change_type": "equal",
+          "text": "By ticking, you are confirming that you have read, understood and agreed to the Terms and Conditions . Submit \u00d7 Thank you for response. We'll let you know shortly if you have won the voucher. Error submitting the form! Follow us on instagram Share"
+        }
+      ],
+      "similarity_score": 0.9583144822328806
+    },
+    {
+      "url": "https://sunfeastfantastik.com/raisethebar/terms-and-conditions.html",
+      "differences": [
+        {
+          "change_type": "equal",
+          "text": "THIS PAGE CONTAINS THE TERMS AND CONDITIONS TO THE SUNFEAST FANTASTIK 4D RAISE THE BAR CONTEST TERMS AND CONDITIONS ABOUT THE CONTEST 1. The \u201cSunfeast Fantastik 4D Raise the Bar Contest\u201d (the \u201cContest\u201d) is organised by ITC Limited (\u201cITC\u201d). 2. Consumers participating or seeking to participate in the Contest shall individually be referred to as \u201cParticipant\u201d and collectively as \u201cParticipants\u201d. 3. If you are a Participant below the age of 18 years, your parent(s)/legal guardian hereby provide consent on your behalf to enter into the Contest and to stand a chance to win prizes as per the terms & conditions set forth herein. Failure to provide such consent will result in disqualification from this Contest. 4. Participation in this Contest is purely voluntary. By participating in this Contest, each Participant is deemed to have accepted the complete terms and conditions of this Contest available on https://sunfeastfantastik.com/raisethebar.html (\u201cContest Website\u201d) as well as the decisions of ITC, which are final and binding in all matters related to the Contest. Successfully entering the Contest and winning a prize is subject to all requirements set forth herein. 5. ITC reserves right to terminate, modify or extend this Contest, at its absolute discretion, without assigning any reason whatsoever including extending, withdrawing, or discontinuing the same without notice, at its sole and absolute discretion and without any liability. All decisions of ITC in respect of the Contest and the prizes therein will be final and binding. 6. The Contest shall be live from 00:00 hours on August 22, 2025 and end at 11:59 hours on September 25, 2025 7. The Contest is subject to all applicable central, state and local laws and regulations. 8. Purchase of the Sunfeast Fantastik 4D pack is not required to participate in this Contest. 9. The Contest shall be run on the sunfeastfantastik website available on https://sunfeastfantastik.com/raisethebar.html 10. This Contest is in no way sponsored, endorsed, administed by or associated with Instagram. Each Participant is deemed to have released Instagram from any claims and liabilities that may specifically arise in relation to their participation in this Contest by accepting these terms & conditions. ELIGIBILITY 11. Only Indian citizens residing in India are eligible to participate in this Contest. Participants below the age of 18 years can participate only with the consent of their parent(s)/legal guardian. 12. In order to be eligible for the prize, all Participants will be required to have valid address proof, government issued photo identity proof such as PAN Card/ Driver\u2019s license/Voter ID/valid passport etc, or parent(s)/legal guardian\u2019s consent, if applicable, a copy of which will have to be submitted at the request of ITC, without which the Participant will be disqualified from the Contest. 13. ITC reserves the right to exclude any person from the Contest on the grounds of: (i) misconduct or criminal record; (ii) tampering with the Entry process or the operation of Contest; (iii) acting in violation of these terms and conditions; (iv) acting in an unsportsmanlike or disruptive manner or with intent to annoy, abuse, threaten or harass any other person; or (v) for any other reasons, as it may deem fit and proper. No communication in this regard will be entertained. STEPS TO PARTICIPATE 14. To participate in the Contest, a Participants should follow the following steps: a) Choose the answer from the multiple options available on the link https://sunfeastfantastik.com/raisethebar.html and mention the reason for the choice in the text input box. 15. Submitted answers must inter alia comply with the following guidelines: a) All comments submitted must comply with these Terms & Conditions and terms of use of the Contest Website; b) Cannot be sexually explicit or suggestive, violent or derogatory of any ethnic, racial, gender, religious, professional or age group, profane or pornographic, or contain nudity; c) Cannot promote alcohol, illegal drugs, firearms/weapons (or the use of any of the foregoing), any activities that may appear unsafe or dangerous, or any particular political agenda or message; d) Cannot be obscene or offensive, endorse any form of hate or hate group; e) Cannot promote terrorist acts such as providing instructions on how to assemble bombs, grenades and other such weapons or provide instructional information about illegal activities; f) Cannot defame, misrepresent or contain disparaging or slanderous remarks about ITC, its customers or its products, or other people, products or companies; g) Must be original and cannot contain copyrighted materials owned by others (including photographs, sculptures, paintings and other works of art, stills, or images published on or in television, movies, the Internet or other media) without permission and cannot be plagiarized from any source; h) Cannot contain background artwork, unless it is an original work of the Participant; i) Cannot communicate messages or images inconsistent with the positive images and/or goodwill to which ITC wishes to associate; j) Cannot depict, and cannot itself, be in violation of any law. k) Participants making statements which are contrary to existing law, bye-laws, public policy or established good practices shall be disqualified from further participating in the Contest. SELECTION OF WINNERS 16. 5 winners will win a prize from ITC. 17. The winners will be chosen by judges appointed by the ITC Sunfeast Fantastik brand team based on the creativity of the comments. The decision of the judges shall be final and binding upon all the participants. PRIZE 18. For the purpose of this Contest, \u201cWinners\u201d mens Participants who have won the Prize. \u201cPrize\u201d means the Prize won by a Winner(s), details of which are elaborated in Clause 19 below. 19. \u201cPrize\u201d: Selected winners based on the most creative comments chosen as per ITC\u2019s discretion will receive the following rewards: 1 user \u2013 Voucher worth Rs. 10,000 4 users \u2013 Voucher worth Rs. 500 CONTACTING WINNERS 20. Post the completion of the Contest, ITC shall contact each Participant who has won. ITC will inform the Participant by a message via Instagram that they have won the prize. The Winner is required to provide their mobile number and any other details as may be requested. These details are required for the Winner to be contacted. Without these details, the Winner shall stand disqualified from the Contest. 21. In the event the Winner does not respond to the message in 3 days, the Winner\u2019s participation in the Contest comes to an end and the Winner\u2019s entry stands cancelled and Winner becomes ineligible to receive the prize. In such an event, another Winner will be shortlisted by ITC. 22. The Winners will have to provide a copy of their or their parent(s)/legal guardian\u2019s address proof such as valid passport, voter card, or driver\u2019s license, a copy of which will have to be submitted at the request of ITC, without which the Participant may be disqualified from the Contest. 23. No Prize will be awarded if the information provided by the Participant at the time of entering the Contest is not factually correct. The prize will be awarded to the Winner only after the formalities mentioned herein are fulfilled. 24. The list of those Winners whose details have been verified shall be published at https://sunfeastfantastik.com/raisethebar/terms-and-conditions.html after the Contest, on 01.10.25 date. 25. By sharing their/their parent(s)/legal guardian\u2019s personal information with ITC, the Participants/their parent(s)/legal guardian consent to collection, storing, processing and use of personal information i.e. name, address, mobile phone number by ITC, its affiliates, associates, agents, contractors and other third parties. The personal information is being collected by ITC and shall be retained by ITC. 26. Personal information given by the Participants/ their parent(s)/legal guardians shall be used to deliver prizes and for promotional activities by ITC Ltd its affiliates, associates, agents, contractors. 27. By participating in this Contest, the Participants/their parent(s)/legal guardians acknowledge and consent to transfer and/or disclosure of their personal information by ITC to any third-party for providing services in relation to this Contest. 28. The Participants have an option of not providing the personal information as required under this Contest. The Participants also have an option to withdraw their consent in relation to usage of Personal Information during the duration of the Contest. In such cases, the entry of the Participant shall not be considered and Participant shall not be eligible for the prize. The participants may reach out to itccares@itc.in for such withdrawals. PUBLICITY 29. The Participant undertakes and irrevocably and unconditionally permits ITC to cover the Contest through various media including newspapers, radio television news channels, internet, point of sale materials, etc., and shall not raise any objection, protest or demur to such coverage or in this regard. 30. At the request of ITC, Participants shall participate in all activities relating to the Contest surrounding the winning of the Prize, free of charge including participating in any photography/videography session, interviews etc., and they consent to ITC using their name and image in promotional material. 31. By participating in the Contest, all Participants agree that ITC shall be at liberty to use the Participant\u2019s name and/or photo and/or video and/or entry and that may appear in any advertisements/promotions/media coverage or publicity in any form which exists today or will be known anytime in the future, without any consideration to the Participant and/or the Winners. No fees or other sums are to be paid to the Participants or Winners on account of taking part in the aforementioned advertisements / promotions and they shall not raise any objection, protest or demur to such coverage or in this regard. TERMS & CONDITIONS FOR THE PRIZE 32. The Prize Winner shall follow the instructions given by or on behalf of ITC, when a message is sent to him/her by ITC informing him/her in the event of his/her selection as the prize Winner. 33. Award of Prize is subject to the verification of documents such as (government Photo-ID proof such as valid Indian passport /residence proof/ Driver\u2019s license PAN card and/or such other documents as may be requested and submitted by the prize Winner. After verification the prize Winner will be informed about the entire process of redemption of the Prize. GENERAL CONDITIONS 34. The decision of ITC, as regards the selection of Winners and distribution of the prizes shall be final, subject only to ITC\u2019s approval. No correspondence or any other claims whatsoever, in this regard will be entertained. 35. All right, title and interest, including but not limited to, the intellectual property rights in the Contest and the promotional materials, all data collected as a result of this Contest and in any and all responses received shall vest solely and exclusively with ITC. ITC shall be entitled to use the responses received or any information in connection with the Entry in any media for future promotional, marketing, publicity and any other purpose without permission or payment to the Participant. 36. All material submitted in connection with the Contest are assigned to ITC upon submission and become of the property of ITC exclusively. ITC may use such material in the manner as it may deem fit. 37. ITC reserves the right to change, defer, alter or cancel this Contest in part or full, or change any or all of the terms and conditions that are applicable, without giving prior intimation/notice of any kind and will not be liable for any consequential losses/damages. Any decision of ITC in this regard and in general with respect to this Contest and the terms and conditions thereto shall be final, binding and non-contestable. 38. The decision of ITC shall be final in all regards and no communication shall be entertained in this regard. None of the provisions of these Terms and Conditions shall be deemed to constitute a partnership or agency between any Participant and ITC and the Participant shall not have the authority to bind ITC in any manner whatsoever. 39. ITC shall be accountable/liable for any disruptions/stoppages/interruptions or cancellation of the Contest due to any government restrictions. 40. Failure to exercise or delay in exercising a right or remedy provided hereunder or by law does not constitute a waiver of the right or remedy or waiver of other rights or remedies on the part of ITC. 41. ITC accepts no responsibility for loss of internet connectivity, claims or correspondence whether due to error, omission, alteration, tampering, unauthorized data hacking, deletion, theft, destruction, virus attack, transmission interruption, communications failure, hardware failure or otherwise. ITC shall not be liable for any consequences of user error including (without limitation) costs incurred. RELEASE AND LIMITATIONS OF LIABILITY 42. ITC shall under no circumstances be liable, whether jointly or severally, for any loss or damage suffered or sustained (including but not limited to consequential loss), including for personal injury or property damage suffered or sustained or any costs incurred, as a result of acceptance of any Prize. 43. By entering the Contest, the Participant hereby releases from and agrees to indemnify ITC and/ or any of its respective officers/employees from and against all liability, cost, loss or expense arising out of acceptance of the prize or participation in the Contest including (but not limited to) personal injury and damage to property and whether direct, indirect, consequential, foreseeable, due to some negligent act or omission, or otherwise. 44. ITC accepts no liability, whether jointly or severally, for any errors or omissions, whether on behalf of itself, or third parties in relation to the prizes. DISPUTES 45. The courts of competent jurisdiction at Bengaluru shall have exclusive jurisdiction to determine any and all disputes arising out of, or in connection with the Contest. 46. Further all issues and questions concerning the construction, validity, interpretation and enforceability of these terms and conditions, or the rights and obligations of the Participants and/or ITC and/or Partners of this Contest, shall be governed and construed in accordance with the laws of India."
+        }
+      ],
+      "similarity_score": 1.000000000000001
+    },
+    {
+      "url": "https://sunfeastfantastik.com/terms-of-use_msm_moved.html",
+      "differences": [
+        {
+          "change_type": "equal",
+          "text": "Terms of Use 1 Introduction 1.1 www.sunfeastmomsmagic.com and all associated sites and applications linked with the same (the \u201cPlatform\u201d) is operated by ITC Limited (including its directors, full time employees, subsidiaries and affiliates, collectively the \u201cCompany\u201d). The Company, through its Platform offers to view and download video call backgorunds available from time to time, on the Platform (the \u201cServices\u201d). 1.2 These terms and conditions (the \u201cTerms of Service\u201d) shall apply to all users of the Platform (collectively, the \u201cUsers\u201d). By registering on, browsing, downloading, using or accessing any part of the Platform or utilising the Services, the Users agree to be bound by the Terms of Service, including any additional or modified terms and conditions and policies in relation to the Platform or any future service that may be offered by the Company. If at any time the Users do not accept or agree to any or all of the Terms of Service, they may not access the Platform or use any of the Services. 1.3 The Users can review the most current version of the Terms of Service at any time on this page. The Company reserves the right to unilaterally update, change or replace any part of these Terms of Service by posting updates or changes to the Platform. It is the responsibility of the Users to check this page periodically for changes. The Users continued use of or access to the Platform following the posting of any changes constitutes acceptance of those changes. 1.4 These Terms of Service govern the use of the Platform, by installing, downloading or even merely using the Platform, the Users shall be contracting with the Company and signify their acceptance to the Terms of Service and other policies of the Company (the \u201cPolicies\u201d) as posted on the Platform from time to time, which takes effect on the date on which the Platform is downloaded and creates a legally binding arrangement to abide by the same. 2 Eligibility 2.1 Accepting the Terms of Service will constitute a legal contract between the User and the Company. Consequently, any User who is \u201cincompetent to contract\u201d within the meaning of the Indian Contract Act, 1872 including minors, un-discharged insolvents etc. is not eligible to use the Platform. Only individuals who are eighteen (18) years of age or older may use the Platform and avail Services. The Company reserves the right to terminate the Users account and / or deny access to the Platform if it is brought to the Company\u2019s notice that the Users are under the age of eighteen (18) years. 2.2 Each User represent that they are competent to contract in terms of the Indian Contract Act, 1872 and has not been disqualified or whose account has not been previously suspended or removed by the Company from the Platform. Each User also represents and warrants that the Users have the right, authority and capacity to be bound the Terms of Service. 2.3 The Company permits all Users to access, view, download the contents of the Platform without registration on the Platform. By using the Platform, or availing the Services, Users automatically become members and agree to the Terms of Service. The membership is limited to the purpose and is subject to the acceptance of and adherence with the Terms of Service by the Users. So long as the Users abide by and accepts the Terms of Service the Company grants the Users with a non-transferrable, limited, non-exclusive and revocable privilege register and use the Platform and avail the Services. 3 Use of the Platform 3.1 The Users agree, undertake and confirm that the Users\u2019 use of the Platform shall be strictly governed by these Terms of Service. Further the Users shall not host, display, upload, download, modify, publish, transmit, update or share any information which: 3.1.1 is grossly harmful, harassing, blasphemous, defamatory, obscene, pornographic, paedophilic, libellous, slanderous, criminally inciting or invasive of another\u2019s privacy, hateful, or racially, ethnically objectionable, disparaging, relating or encouraging money laundering or gambling, or otherwise unlawful in any manner whatsoever; or unlawfully threatening or unlawfully harassing including but not limited to \u201cindecent representation of women\u201d within the meaning of the Indecent Representation of Women (Prohibition) Act, 1986 ; 3.1.2 is patently offensive to the online community, such as sexually explicit content, or content that promotes obscenity, paedophilia, racism, bigotry, hatred or physical harm of any kind against any group or individual; 3.1.3 harasses or advocates harassment of another person, including children; 3.1.4 infringes upon or violates any third party\u2019s rights including, but not limited to, intellectual property rights, rights of privacy (including without limitation unauthorized disclosure of a person\u2019s name, email address, physical address or phone number) or rights of publicity; 3.1.5 promotes an illegal or unauthorized copy of another person\u2019s copyrighted work, such as providing pirated computer programs or links to them, providing information to circumvent manufacture-installed copy-protect devices; 3.1.6 tries to gain unauthorized access or exceeds the scope of authorized access to the Platform or to the profiles, blogs, communities, account information, or other areas of the Platform or solicits passwords or personal identifying information for commercial or unlawful purposes from other Users; 3.1.7 interferes with another User\u2019s use and enjoyment of the Platform or any third party users enjoyment of similar services; 3.1.8 refers to any website or URL that, in our sole discretion, contains material that is inappropriate for the Platform or any other website, contains content that would be prohibited or violates the spirit of these Terms of Service; 3.1.9 violates any law for the time being in force; 3.1.10 impersonate another person; 3.1.11 threatens the unity, integrity, defence, security or sovereignty of India, friendly relations with foreign States, or public order, or causes incitement to the commission of any cognisable offence or prevents investigation of any offence or is insulting other nation; 3.1.12 contains software viruses or other computer programming routines that may damage, detrimentally interfere with, diminish value of, surreptitiously intercept or expropriate any system, data or personal information; and 3.1.13 directly or indirectly, offers, attempts to offer, trades or attempts to trade in any item, the dealing of which is prohibited or restricted in any manner under the provisions of any applicable law, rule, regulation or guideline for the time being in force. 3.2 By using the Platform, the Users represent and warrant that: 3.2.1 All information submitted by the Users are truthful, lawful and accurate; 3.2.2 The User\u2019s use of the Platform shall be solely for their personal use; 3.2.3 The Users will not submit, post, upload, distribute, or otherwise make available or transmit any content that: (a) is defamatory, abusive, harassing, insulting, threatening, or that could be deemed to be stalking or constitute an invasion of a right of privacy of another person; (b) is bigoted, hateful, or racially or otherwise offensive; (c) is violent, vulgar, obscene, pornographic or otherwise sexually explicit; (d) is illegal or encourages or advocates illegal activity or the discussion of illegal activities with the intent to commit them; 3.2.4 All necessary licenses, consents, permissions and rights are owned by the Users and there is no need for any payment or permission or authorization required from any other party or entity to use, distribute or otherwise exploit in all manners permitted by these Terms of Service and Privacy Policy, all trademarks, copyrights, patents, trade secrets, privacy and publicity rights and/or other proprietary rights contained in any content that the Users submit, post, upload, distribute or otherwise transmit or make available; 3.2.5 The Users will not use the Platform in any way that is unlawful, or harms the Company or any other person or entity; 3.2.6 The Users will not post, submit, upload, distribute, or otherwise transmit or make available any software or other computer files that contain a virus or other harmful component, or otherwise impair or damage the Platform or any connected network, or otherwise interfere with any person or entity\u2019s use or enjoyment of the Platform. 3.2.7 The Users will not use another person\u2019s name, likeness, voice, image or photograph or impersonate any person or entity or misrepresent their identity or affiliation with any person or entity. 3.2.8 The Users will not delete or modify any content of the Platform, including but not limited to, disclaimers or proprietary notices such as copyright or trademark symbols, logos. 3.2.9 The Users will not post or contribute any information or data that may be obscene, indecent, pornographic, vulgar, profane, racist, sexist, discriminatory, offensive, derogatory, harmful, harassing, threatening, embarrassing, malicious, abusive, hateful, menacing, defamatory, untrue or political or contrary to our interest. 3.2.10 The Users shall not access the Platform without authority or use the Platform in a manner that damages, interferes or disrupts, any part of the Platform or any equipment or any network on which the Platform is stored or any equipment of any third party; 3.2.11 The Users release and fully indemnify the Company and/or any of its officers and representatives from any cost, damage, liability or other consequence of any of the actions of the Users of the Platform and specifically waive any claims that the Users may have in this behalf under any applicable laws of India. Notwithstanding its reasonable efforts in that behalf, the Company cannot take responsibility or control the information provided by other Users which is made available on the Platform. 3.3 The Users shall not attempt to gain unauthorized access to any portion or feature of the Platform, or any other systems or networks connected to the Platform by any means. The Users shall not probe, scan or test the vulnerability of the Platform nor breach the security or authentication measures on the Platform or any network connected to the Platform. 3.4 The Users agree not to use any device, software or routine to interfere or attempt to interfere with the proper working of the Platform or any transaction being conducted on the Platform, or with any other person\u2019s use of the Platform. The Users may not use the Platform or any of its content for any purpose that is unlawful or prohibited by these Terms of Service. 3.5 The Users shall at all times ensure full compliance with the applicable provisions, as amended from time to time, of (a) the Information Technology Act, 2000 and the rules thereunder; (b) all applicable domestic laws, rules and regulations (including the provisions of any applicable exchange control laws or regulations in force); and (c) international laws, foreign exchange laws, statutes, ordinances and regulations (including, but not limited to goods and service tax, income tax, central excise, custom duty, local levies) regarding the use of the Platform and listing, purchase, solicitation of offers to purchase, and sale of Products or Services. The Users shall not engage in any transaction which is prohibited by the provisions of any applicable law including exchange control laws or regulations for the time being in force. 3.6 In order to allow the Company to use the information supplied by the Users, without violating any rights or any laws, the Users agree to grant the Company a non-exclusive, worldwide, perpetual, irrevocable, royalty-free, sub-licensable (through multiple tiers) right to exercise the copyright, publicity, database rights or any other rights. The Company will only use the information in accordance with these Terms of Service and Privacy Policy (defined below) applicable to use of the Platform. 3.7 The Company reserves the right, but has no obligation, to monitor the materials posted on the Platform. The Company shall have the right to remove or edit any content that in its sole discretion violates, or is alleged to violate, any applicable law or either the spirit of these Terms of Service. In no event shall the Company assume any responsibility or liability for any content posted or for any claims, damages or losses resulting from use of content and/or appearance of content on the Platform. 3.8 The Company shall have all the rights to take necessary action and claim damages that may occur due to the Users involvement/participation in any way either on their own or through group/s of people, intentionally or unintentionally in hacking. 3.9 The Users understand that their content, may be transferred unencrypted and involve (a) transmissions over various networks; and (b) changes to conform and adapt to technical requirements of connecting networks or devices. The Users understand and acknowledge that the use of the Platform requires internet connectivity and telecommunication links. The Users shall bear the costs incurred to access and use the Platform and avail the Services, and the Company shall not, under any circumstances whatsoever, be responsible or liable for such costs. 4 Accuracy, Completeness and Timeliness of Information 4.1 The Company is not responsible for any inaccuracy, incompleteness or outdated information made available on the Platform, either provided by the Users or otherwise. The material on the Platform is provided for general information only and should not be relied upon or used as the sole basis for making decisions without consulting primary, more accurate, more complete or more timely sources of information. The Users agree that, the Company does not own any responsibility or obligation whatsoever towards either ensuring the accuracy of the information provided by the Users. Any reliance on the material on the Platform is at the Users own risk. 4.2 The Platform may contain certain historical information. Historical information, necessarily, is not current and is provided for the purpose of reference only. The Company reserves the right to modify the contents of the Platform at any time, but has no obligation to update any information on the Platform. The Users agree that it is their responsibility to monitor changes to the Platform. 4.3 Occasionally there may be information on the Platform that contains typographical errors, inaccuracies or omissions that may relate to information pertaining to the Products, pricing, promotions, offers, Delivery Charges, transit times and availability. The Company reserves the right to correct any errors, inaccuracies or omissions, and to change or update information if any information on the Platform is inaccurate at any time without prior notice. 4.4 The Company undertake no obligation to update, amend or clarify information in the Platform, including without limitation, pricing information, except as required by law. No specified update or refresh date applied to the Platform, should be taken to indicate that all information on the Platform or pertaining to the Services have been modified or updated. 5 Disclaimers of Warranties and Limitation of Liability 5.1 The Company endeavours to make the Platform available, as far as possible, at all times. However, the Company does not represent that access to the Platform will be uninterrupted, timely, error free, free of viruses or other harmful components or that such defects will be corrected. 5.2 The Company does not warrant that the Platform will be compatible with all hardware and software which is used by the Users. The Company shall not be liable for damage to, or viruses or other code that may affect, any equipment, software, data or other property as a result of downloading and installing the Platform. 5.3 The Company does not represent or warranty that the information available on the Platform will be correct, accurate or otherwise reliable. 5.4 The Platform may be under constant upgrades, and some functions and features may not be fully operational. 5.5 The Platform is provided on an \u201cas is\u201d and \u201cas available\u201d basis. The Company expressly disclaims all warranties of any kind, whether express or implied with respect to the records and other data that is made available by it to the Users. 5.6 The Company makes no representation or warranty that: (i) the Platform will be accurate or reliable; (ii) the Platform will be uninterrupted, timely, secure, or error-free; (iii) any information that may be obtained from the use of the Platform will be accurate, timely or complete; or (iv) any errors in any software used on the site or in connection with the Platform will be corrected. 5.7 THE COMPANY DOES NOT REPRESENT ANY OF THE USERS, AND DISCLAIMS ANY LIABILITY WITH RESPECT TO ANY ERROR OR INCONSISTENCY WITH RESPECT TO ANY INFORMATION RELATING TO SUCH USERS DISPLAYED ON THE SITE OR WITH RESPECT TO THE SERVICES PROVIDED. ANY INFORMATION PROVIDED WITH RESPECT TO THE USERS AND FEES PAYABLE IS SUBJECT TO CHANGE WITHOUT NOTICE. ANY TRADEMARK, WORD MARK OR INTELLECTUAL PROPERTY OF ANY USERS BELONGS TO SUCH USERS ALONE, AND THE COMPANY HAS NO RIGHT OR CLAIM OVER THE SAME. 5.8 The Company is not responsible and will have no liability for: (i) any content or Products provided by any persons or entities other than the Company; (ii) damages of any kind that result from the downloading of any data or any other materials on the site or through the Platform; or (iii) the failures of the internet or any data or telecommunications equipment, system or network used in connection with the Platform. 5.9 The Company shall not be liable for: any injury, loss, claim, or any direct, indirect, incidental, punitive, special, or consequential damages of any kind, including, without limitation any financial losses, loss of data, replacement costs, or any similar damages, whether based in contract, tort, strict liability or otherwise, arising from the use of the Platform, or for any other claim related in any way to the use of the Platform, including, but not limited to, any errors or omissions in any content, or any loss or damage of any kind incurred as a result of the use of the Platform or any content posted, transmitted, or otherwise made available via the Platform, even if advised of their possibility. 5.10 The Company shall not be liable to anyone else for any losses or injury arising out of or relating to the information provided on the Platform. In no event will the Company or its employees, affiliates, authors or agents be liable to the Users or any third party for any decision made or action taken by the Users. 5.11 The Company shall not be liable for any acts or omissions on part of the Vendor(s) including deficiency in service, wrong delivery of order / order mismatch, quality, incorrect pricing, deficient quantity, time taken to prepare or deliver the order, etc. 6 Privacy All information about Users that are collected, stored or transmitted in any way on the Platform, including any registration information, is subject to our Privacy Policy (the \u201cPrivacy Policy\u201d), located at https://www.itcportal.com/about-itc/policies/privacy- policy.aspx 7 Third Party Links 7.1 Certain content, advertisements available via the Platform may include materials from third-parties. 7.2 Third-party links on the Platform may direct the User to third-party websites that are not affiliated with the Company. The Company is not responsible for examining or evaluating the content or accuracy and does not warrant and will not have any liability or responsibility for any third-party materials or websites, or for any other materials, Products, or services of third-parties. 7.3 The Company is not liable for any harm or damages related to the purchase or use of goods, services, resources, content, or any other transactions made in connection with any third-party websites. Please review carefully the third-party\u2019s policies and practices and make sure to understand them before engaging in any transactions. Complaints, claims, concerns, or questions regarding third-party Products should be directed to the third-party. 8 Intellectual property 8.1 The Company is either the owner of intellectual property rights or have the non-exclusive, worldwide, perpetual, irrevocable, royalty free, sub-licensable (through multiple tiers) right to exercise the intellectual property, on the Platform, and on the material published on it. 8.2 The Users must not modify the paper or digital copies of any materials printed or downloaded in any way, and they must not use any illustrations, photographs, video or audio sequences or any graphics separately from any accompanying text. 8.3 The Users must not use any part of the materials on the Platform for commercial purposes without obtaining a licence to do so from the Company. 9 Indemnification The Users agree to indemnify, defend and hold harmless the Company, subsidiaries, affiliates, partners, officers, directors, agents, contractors, licensors, service providers, subcontractors, suppliers, interns and employees, harmless from any claim or demand, including reasonable attorneys\u2019 fees, made by any third-party due to or arising out of a breach of these Terms of Service or the documents they incorporate by reference, or violation of any law or the rights of a third-party. 10 Severability In the event that any provision of these Terms of Service is determined to be unlawful, void or unenforceable, such provision shall nonetheless be enforceable to the fullest extent permitted by applicable law, and the unenforceable portion shall be deemed to be severed from these Terms of Service, such determination shall not affect the validity and enforceability of any other remaining provisions. 11 Independent Contractors Nothing herein contained shall constitute or be deemed to constitute a relationship of agency, partnership, joint venture or employment between the Delivery Partners, the Users, including the Vendor Partners, and the Company. 12 Termination 12.1 These Terms of Service are effective unless and until terminated by either the Company or the Users. The Users may terminate these Terms of Service at any time by notifying the Company that the Users no longer wish to use the Platform or the Services, or when the User cease using the Platform. 12.2 If in the Company\u2019s sole judgment the Users fail, or they suspects that the Users have failed, to comply with any term or provision of these Terms of Service, the Company may also terminate their access to the Platform, or cease the provision of the Services at any time without notice and the Users will remain liable for all amounts due up to and including the date of termination; and/or accordingly may deny the Users access to the Platform or the Services (or any part thereof). 13 Entire Agreement 13.1 These Terms of Service and any policies or operating rules posted by the Company on the Platform constitute the entire agreement and understanding between the Users and the Company with respect to the Platform, and supersede any prior or contemporaneous agreements, communications and proposals, whether oral or written, between the Users and the Company (including, but not limited to, any prior versions of the Terms of Service). 13.2 Any ambiguities in the interpretation of these Terms of Service shall not be construed against the drafting party. 14 Waiver The failure of the Company to exercise or enforce any right or provision of these Terms of Service shall not constitute a waiver of such right or provision. 15 Governing law and dispute resolution These Terms of Service are governed by the laws of India. Any action, suit, or other legal proceeding, which is commenced to resolve any matter arising under or relating to this Platform, shall be subject to the jurisdiction of the courts at Bangalore, India. 16 Contact Information All notices and enquiries to the Company can be addressed to ITC CARES AT P.O. BOX NO. 592 BENGALURU - 560005 itccares@itc.in 1800-425 444 444 17 Grievance Redressal 17.1 All grievances with the Company with respect to the Products, Services or any other term of these Terms and Services can be addressed to ITC CARES AT P.O. BOX NO. 592 BENGALURU \u2013 560005 itccares@itc.in 1800-425 444 444 17.2 In the event the User\u2019s grievances are not suitably resolved or with respect to the alleged breach of any statutory compliances, such grievances can be escalated to the Head of Corporate Human Resources, ITC Limited, 37 JL Nehru Road, Kolkata \u2013 700071 webmaster@itc.in +913322889371 9AM - 5PM (on all working days) 18 Right to use the backgrounds 18.1 The Company grants the User an irrevocable, non-exclusive, worldwide right to download, and use the backgrounds available as part of Din Khatam Fantasy Shuru Collection for free for personal use only and not for any commercial use whatsoever. This right does not include the right to compile the downloads from the Company to replicate a similar or competing service. However, the right does not include the right to use: 18.1.1 Trademarks, logos or brands that appear in backgrounds 18.1.2 Works of art or authorship that appear in the backgrounds 18.1.3 Images of people or animals if they are recognizable in the backgrounds 18.2 In addition to the above Terms and Conditions, the User shall not: 18.2.1 Incorporate the background in a logo, trademark or service mark, advertising or promotional material 18.2.2 Reproduce the background with any design, editorial piece, advertisement or any work product unless agreed in writing by the Company 18.2.3 Use the background in pornographic, obscene defamatory, misleading, unlawful or offensive manner, whether directly or in context or by juxtaposition with other materials. 18.2.4 Use the background for any illegal activity, including but not limited to fraud, impersonation, solicitation, defamation or disinformation. 18.2.5 Alter, manipulate, add, crop or delete the background or any part of it. The backgrounds must not be made available for use or distribution separately or detached from this Platform. 18.2.6 The backgrounds shall not be made available for downloading separately or in a format designed or intended for storage or re-use by the Users. The backgrounds must not be made available on any third-party website or any other link hosted on a third-party website. 18.3 Permission to download the backgrounds has been given on the permission that they shall not be used for any other purpose other than the purpose for which they are made available. Any subsequent use, which has not been explicitly authorized by the Company is forbidden. This includes the storage of the background on any media for any purpose other than the above stated use. 18.4 Any use of backgrounds not abiding to these Terms and Conditions shall be considered as breach of these and the User shall be solely held responsible for the same. The User agrees to indemnify and hold the Company harmless against any claims, damages, losses, expenses or costs (including any direct, indirect or consequential losses, loss of profit and loss of reputation and all interest, penalties and legal costs and other expenses) arising in any manner whatsoever from or as a result of unauthorised use of any background made available on this Platform, or any other breach by User of any obligations under these Terms and Conditions. 18.5 The Company shall have no liability for any losses or damages which may be suffered by the User (or any person claiming under them) whether the same are suffered directly or indirectly or are immediate or consequential, and whether the same arise in contract, tort (including negligence) or otherwise howsoever including: (a) loss of profits; (b) loss of business opportunity; (c) loss of contracts; (d) loss of goodwill; or (e) loss arising from damaged, corrupted or lost data."
+        }
+      ],
+      "similarity_score": 1.0
+    },
+    {
+      "url": "https://sunfeastfantastik.com/tpromo.html",
+      "differences": [
+        {
+          "change_type": "equal",
+          "text": "SUNFEAST FANTASTIK CASHB ACK CARNIVAL CONTEST TERMS & CONDITIONS 1. This Sunfeast Fantastik Cashback Carnival Contest (\u201cContest\u201d) is launched by ITC Limited. The Contest is organized by Mobilnxt India Pvt. Ltd. . This Contest is open only to wholesalers and retailers, who are of age 18 years and above as on 20/05/2025. 2. Retailers/Wholesalers participating or seeking to participate in the Contest shall individually be referred to as \"Participant\" and collectively as \"Participants\". If you participate in the Contest on behalf of a business entity, you represent that you have the requisite capacity and authority to accept these terms and conditions ( hereinafter referred to as the \u201cTerms & Conditions\u201d) on behalf of the business entity. 3. Participation in this Contest is purely voluntary. Participation in this Contest implies unconditional acceptance of these Terms. 4. By participating in this Contest, each Participant is deemed to have read, understood and accepted the complete terms and conditions of this Contest available on www.sunfeastfantastik.com/tpromo (\u201cContest Website\") as well as the decisions of ITC which are final and binding in all matters related to the Contest. Successfully entering the Contest and winning a prize/prize(s) is subject to all requirements set forth herein. ELIGIBILITY: 1. This Contest is open to residents of India only. 2. Participants below 18 years of age are not allowed to participate in this Contest. 3. This Contest begins on 20.05.2025 (\u201cContest Period\u201d). No entry will be entertained after 15 th Aug 2025. 4. This Contest is applicable only on wholesale packages containing Sunfeast Fantastik Fruit n Nut Rs. 10 at 13.5 g and Sunfeast Fantastik Choco Almond Rs. 10 at 12.5 g. 5. This Contest is subject to all applicable central, state and local laws and regulations. 6. The following persons are not eligible to participate in the Contest: employees, agents, associates, and promoters of ITC\u2019s and of its affiliates, subsidiaries, and advertisement agencies including their immediate family members (spouse, parent, child, sibling, grandparent and/or \u201cstep\u201d) and all others directly associated with organizing the Contest. 7. ITC reserves the right to cancel/amend/extend the Contest Period without giving any notice/intimation. No claims /questions shall be entertained in this regard. STEPS TO PARTICIPATE: 1. To participate in this Contest, Participants should follow these steps \u2013 a. Purchase any wholesale package of Sunfeast Fantastik Fruit n Nut Rs. 10 at 13.5 g and Sunfeast Fantastik Choco Almond Rs. 10 at 12.5 g. (hereinafter referred to as the \u201cOUTER\u201d) during the Contest Period. Each OUTER will contain a pamphlet with a Unique Code (hereinafter referred to as \u201cCode\u201d) b. Scan the QR Code on the pamphlet. The QR Code will redirect you to the Contest Website https://fantastikcarnival.com The Participants will have to enter their name, mobile number, e-mail id, State and UPI ID as prompted. c. Accept the terms and conditions on the Contest Website. d. The Participants should enter the Code provided on the pamphlet inside the OUTER. e. Once the Code is validated, the Participants will receive the assured cashback of Rs. 10 in their bank account through the UPI ID used to enter into the Contest (hereinafter referred to as \u201cCashback\u201d). f. The Participant can purchase multiple OUTERs and follow the same steps provided above to avail higher Cashback amounts. The details of Cashback are as follows: i. Purchase of 2nd OUTER \u2013 Assured Cashback of Rs. 15 on the 2nd OUTER ii. Purchase of 3rd OUTER \u2013 Assured Cashback of Rs. 20 on the 3rd OUTER iii. Purchase of 4th OUTER \u2013 Assured Cashback of Rs. 25 on the 4th OUTER iv. Purchase of 5th or more OUTER \u2013 Assured Cashback of Rs. 50 on each OUTER subsequent to the 5th OUTER. g. The Participants will have to enter the same name and mobile number for each repeat purchase of the OUTER to avail the Cashback detailed above. h. For one Mobile Number the maximum limit which can be claimed through this contest is Rs.2,500/- 2. Participants will have to share their correct UPI ID and the transfer will be done only to the UPI ID provided by the Participants. 3. If a Participant has purchased an OUTER with the Code before the commencement of the Contest Period, then the Participant will be ineligible for participation in the Contest until the start of Contest Period i.e., 20/05/2025. A Participant who has purchased an OUTER during the Contest Period, can redeem the cashback till \u00ac\u00ac\u00ac15th July 2025. Participants who have purchased a OUTER with the Code after the end of the Contest Period will be ineligible to participate in the Contest and their participation will be rejected. 4. The disbursement of the Cashback will be only through the method stated herein, and disbursement through any other form is not permissible. 5. Participants may submit multiple entries in this Contest basis the number of wholesale packages purchased. 6. The pamphlet containing the Code cannot be exchanged for cash/vouchers/credit notes. The pamphlet will not be replaced if lost. 7. ITC reserves the right to change the Terms & Conditions of this Contest, including extending, withdrawing, or discontinuing the same without notice, without assigning any reason, at its sole discretion, without any liability. ITC shall not be liable in any manner for any claim arising out of, or in respect of this Contest. 8. ITC shall not be responsible for (i) any incorrect or incomplete details provided by the participant and/or delay in receipt of communication and/or non-receipt of communication for any reason whatsoever, (ii) any charges, levies, costs if incurred by the participants to participate in this Contest, (iii) any loss of data due to server issues and other technical faults that may occur during real time monitoring of the submission of entries, (iv) errors, omissions, interruptions, deletions, defects, delays in operation or transmission, theft, destruction, unauthorized access or alteration by a participant or third party. ITC, in its sole discretion, reserves the right to disqualify any person tampering with the operation of the Contest, or engaging in fraudulent or unethical behaviour, or violating or otherwise not meeting these Terms. 9. Sunfeast Fantastik is an exclusive trademark / brand of ITC. 10. ITC reserves the right to exclude any person from participating in the Contest on grounds of misconduct or criminal record. 11. ITC reserves the right to terminate, modify or extend the Contest, at any time at its absolute discretion, without assigning any reasons. 12. If this Contest is interfered with in any way or is not capable of being conducted as reasonably anticipated due to any reason beyond the reasonable control of ITC, including but not limited to technical difficulties, unauthorized intervention or fraud, ITC reserves the right, in its sole discretion, to the fullest extent permitted by law (a) to invalidate any Participant; or (b) subject to any written directions from a regulatory authority, to modify, suspend, terminate or cancel the Contest, as appropriate. 13. If for any reason this Contest is not capable of running as planned because of infection by computer virus, bugs, tampering, unauthorized intervention, technical failures or any other causes beyond the reasonable control of ITC, which corrupt or affect the administration, security, fairness, integrity or proper conduct of this Contest, ITC reserves the right in its sole discretion to cancel, terminate, modify or suspend the Contest. 14. By sharing their personal information with Mobilnxt India Pvt. Ltd.the Participants consent to collection, storage, processing and usage of personal information i.e., Name, Mobile number, e-mail, State, Pin code, UPI ID details by Mobilnxt India Pvt. Ltd.,, its affiliates, associates, agents and contractors and other third parties. 15. Personal information given by the Participants shall be used for promotional activities by ITC, its affiliates, associates, agents, contractors. The personal information is being collected by Mobilnxt India Pvt. Ltd.,and shall be retained by Mobilnxt India Pvt. Ltd., 16. The Participants have an option of not providing the personal information as required under this Contest. The Participants also have an option to withdraw their consent in relation to usage of personal information during the Contest Period. In such cases, the entry of the Participant shall not be considered and Participant shall not be eligible for the Prizes. The Participant may reach out to tarun@mobilnxt.com for such withdrawals. 17. By participating in this Contest, the Participants acknowledge and consent to transfer and/or disclosure of their personal information by ITC to any third-party for providing services in relation to this Contest. 18. By availing the Cashback and/or taking part in the Contest, all Participants agree that ITC shall be at liberty to use Participant\u2019s name and/or photo and/or video that may appear in any advertisements / promotions/media coverage or publicity in any form which exists today or will be known anytime in the future, without any consideration to the Participant. No fees or other sums are to be paid to the Participants on account of taking part in the aforementioned advertisements / promotions. 19. ITC accepts no liability, whether jointly or severally, for any errors or omissions, whether on behalf of itself or third parties in relation to the Cashback. 20. ITC shall not be liable for any delays or failures in its performance hereunder resulting from any pandemic, epidemic, weather conditions, fire, flood, hurricane, strike, war, riots, political unrest, civil commotion, terrorist attacks or any other event amounting to Force Majeure or causes beyond its control. In such circumstances, ITC has the right to cancel or suspend this Contest or carry out any other action as may be determined by it in its sole discretion. 21. ITC, its officers, directors, employees, agents, successors, or assigns are not liable and do not have obligation with respect to (i) notifications, communications, or materials sent by a Participant that are lost, late, misdirected, garbled, inaccurate, incomplete, illegible, unintelligible, damaged or otherwise not received by ITC, in whole or in part, due to computer, post office or technical error of any kind, (ii) telephone, electronic, hardware, software, network, Internet or computer malfunctions, failures or difficulties, (iii) power-related or weather-related events of any kind, and/or to any event not under ITC direct control, (iv) entries or other communications from customers that contain inaccurate information or do not comply with these rules, (v) errors, omissions, interruptions, deletions, defects, delays in operation or transmissions, theft, destruction, unauthorized access or alterations by Participants or third parties, (vi) if the Participant has registered himself to the DND of the telecom provider/ the Participant has registered with National Do Not Call Registry/ Participant has specifically requested for not receiving messages for the specific Contest (vii) any damages or losses of any kind resulting from acceptance, possession, or use of any Prize. ITC, in their sole discretion, reserves the right to disqualify any person tampering with the entry process or the operation of the Contest or otherwise violating these rules. ITC further reserves the right to cancel, terminate or modify this Contest if this Contest cannot be completed as planned because of infection by computer virus, bugs, tampering, unauthorized intervention or technical failures of any sort. 22. No liability or responsibility is assumed by ITC resulting from the Participant's participation in or attempt to participate in the Contest or ability or inability to upload or download any information in connection with the Contest. No responsibility or liability is assumed by ITC for technical problems or technical malfunction arising in connection with any of the following occurrences which may affect the operation of the Contest: Hardware or software errors; faulty computer, telephone, cable, satellite, network, electronic, or Internet connectivity or other online or network communication problems; errors or limitations of any Internet providers, servers, hosts or other providers; garbled, jumbled or faulty data transmissions; failure of any online transmissions to be sent or received; lost, late, delayed or intercepted transmissions; inaccessibility of the Web Site in whole or in part for any reason; traffic congestion on the Internet or Web Site; unauthorized human or non-human intervention of the operation of the Contest, including without limitation, unauthorized tampering, hacking, theft, virus, bugs, or worms; or destruction of any aspect of the Contest, or loss, miscount, misdirection, inaccessibility or unavailability of an email account used in connection with the Contest. ITC is not responsible for any typographical errors in the announcement of prizes or these Terms and Conditions, or any inaccurate or incorrect data contained on the website. ITC is not responsible for any personal injury or property damage or losses of any kind which may be sustained to participant\u2019s or any other person's computer equipment resulting from participation in the Contest. 23. Any incidental charges, including statutory levies, are to be borne by the Participant. 24. By entering the Contest, the Participant hereby releases from and agrees to indemnify ITC and/ or Agent or any of its respective officers/employees from and against all liability, cost, loss or expense arising out of acceptance of the Cashback or participation in the Contest including (but not limited to) personal injury and damage to property and whether direct, indirect, consequential, foreseeable, due to some negligent act or omission, or otherwise. 25. ITC shall under no circumstances be liable, whether jointly or severally, for any loss or damage suffered or sustained (including but not limited to consequential loss), including for personal injury or property damage suffered or sustained or any costs incurred, as a result of acceptance of the Cashback. 26. ITC or the Promotion Parties shall not be liable for any loss due to delay or destruction or damage of or inability to provide the Cashback due to Act of God, Governmental actions, riots, loss/damage/delay due to courier services and other force majeure circumstances and shall not be liable to pay any amount as compensation, or damages, for any such loss, delay or damage. 27. All disputes arising out of, or in connection with, this Contest shall be subject to the exclusive jurisdiction of Courts at Bengaluru."
+        }
+      ],
+      "similarity_score": 0.9999999999999991
+    }
+  ]
+}
