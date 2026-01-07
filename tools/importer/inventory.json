@@ -512,7 +512,8 @@
           "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[4]",
           "section": "section-6"
         }
-      ]
+      ],
+      "key": "unknown7"
     },
     {
       "name": "Columns",
@@ -541,7 +542,8 @@
           "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[6]",
           "section": "section-5"
         }
-      ]
+      ],
+      "key": "unknown9"
     },
     {
       "name": "unknown",
@@ -554,7 +556,8 @@
           "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[4]",
           "section": "section-5"
         }
-      ]
+      ],
+      "key": "unknown10"
     }
   ],
   "outliers": [
