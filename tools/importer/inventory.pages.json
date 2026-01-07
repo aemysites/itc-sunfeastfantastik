@@ -1,0 +1,112 @@
+{
+  "templates": [
+    {
+      "name": "Dashboard Template",
+      "cluster": 1,
+      "pages": [
+        {
+          "url": "https://sunfeastfantastik.com/terms-of-use.html",
+          "uuid": "64e9e872e5828c166a2d9cef4702e10d078c6340"
+        },
+        {
+          "url": "https://sunfeastfantastik.com/terms-of-use_msm_moved.html",
+          "uuid": "4253c317cf93b13b07f453d4053042c93b373ab7"
+        }
+      ]
+    },
+    {
+      "name": "Article Page",
+      "cluster": 2,
+      "pages": [
+        {
+          "url": "https://sunfeastfantastik.com/privacy-policy.html",
+          "uuid": "94410049a8bd4a93e0fe0e5af87ff460137422d7"
+        },
+        {
+          "url": "https://sunfeastfantastik.com/privacy-policy_msm_moved.html",
+          "uuid": "0b101eb56ddf435f6747120d83a57c9b32f7fe8d"
+        }
+      ]
+    },
+    {
+      "name": "\"Dashboard Template\"",
+      "cluster": 3,
+      "pages": [
+        {
+          "url": "https://sunfeastfantastik.com/tpromo.html",
+          "uuid": "dc237ef62ed1359d88b07461f8c972a99ab7a1cc"
+        }
+      ]
+    },
+    {
+      "name": "Media Page",
+      "cluster": 4,
+      "pages": [
+        {
+          "url": "https://sunfeastfantastik.com/testform.html",
+          "uuid": "668f7a21277374172aaaee6dfc2b014537883b01"
+        }
+      ]
+    },
+    {
+      "name": "\"News Listing\"",
+      "cluster": 5,
+      "pages": [
+        {
+          "url": "https://sunfeastfantastik.com/homepage_msm_moved.html",
+          "uuid": "dfb3957d6ff6e87ba90542a26d5b0f6248682ec8"
+        }
+      ]
+    },
+    {
+      "name": "'Contact Page'",
+      "cluster": 6,
+      "pages": [
+        {
+          "url": "https://sunfeastfantastik.com/raisethebar.html",
+          "uuid": "553f51808eeaab1c6d7b9ca21a6243888362bac1"
+        }
+      ]
+    },
+    {
+      "name": "\"Landing Page\"",
+      "cluster": 7,
+      "pages": [
+        {
+          "url": "https://sunfeastfantastik.com/raisethebar/terms-and-conditions.html",
+          "uuid": "314064ffdf468f50608851a4e2a7a1f490ef33c2"
+        }
+      ]
+    },
+    {
+      "name": "\"Portfolio Page\"",
+      "cluster": 8,
+      "pages": [
+        {
+          "url": "https://sunfeastfantastik.com/dumpyourexcess/terms-and-conditions.html",
+          "uuid": "7f9092efc38d7db6848bcfe8fe92aed3d98484eb"
+        }
+      ]
+    },
+    {
+      "name": "Dashboard Template",
+      "cluster": 9,
+      "pages": [
+        {
+          "url": "https://sunfeastfantastik.com/factorylocator.html",
+          "uuid": "cd229c33d03519d39ca4865d467f7e83cd18dc41"
+        }
+      ]
+    },
+    {
+      "name": "Gallery Showcase Template",
+      "cluster": 10,
+      "pages": [
+        {
+          "url": "https://sunfeastfantastik.com/dumpyourexcess.html",
+          "uuid": "a1eafe2c0beba8309bc32b628826df94e337ff23"
+        }
+      ]
+    }
+  ]
+}
