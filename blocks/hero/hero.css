@@ -47,200 +47,152 @@
   }
 }
 
+
+/* Layout: Three side-by-side main sections using Flexbox */
 .hero.hero2 {
+  width: 100vw;
+  min-height: 620px;
   display: flex;
   flex-direction: row;
-  align-items: stretch;
   justify-content: center;
-  gap: clamp(2rem, 4vw, 4rem);
-  background: linear-gradient(160deg, #ffea8a 0%, #f90 100%);
-  border-radius: 2.2rem;
-  box-shadow: 0 8px 32px rgb(103 60 0 / 12%);
-  padding: clamp(2.5rem, 6vw, 4rem) clamp(1.5rem, 5vw, 3rem);
+  align-items: stretch;
+  background: radial-gradient(circle at 53% 48%, #ffecb2 0 35%, #ffd76b 48%, #ffc05f 77%, #fbb040 100%);
   position: relative;
-  max-width: 1200px;
-  margin: 2.5rem auto;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
   overflow: visible;
 }
 
-/* Responsive stacking for smaller screens */
-@media (width <= 900px) {
-  .hero.hero2 {
-    flex-direction: column;
-    gap: 2rem;
-    padding: 1.5rem 0.75rem;
-    border-radius: 1.2rem;
-    max-width: 100%;
-  }
-}
+/* Remove unwanted space on the page: make hero truly full-width */
 
-/* COLUMN LAYOUTS */
-.hero.hero2 .picture,
-.hero.hero2 picture {
-  flex: 1 1 0;
-  display: flex;
-  align-items: flex-end;
-  justify-content: center;
-  min-width: 0;
-  margin-bottom: 0;
-}
-
-.hero.hero2 img,
-.hero.hero2 picture img {
-  max-width: 420px;
-  width: 100%;
-  height: auto;
-  object-fit: cover;
-  border-radius: 1rem;
-  box-shadow: 0 4px 24px rgb(103 60 0 / 14%);
-  background: #fff4cc;
-  display: block;
-}
-
-/* Right column: text side */
+/* Section columns: use descendants (not >) */
 .hero.hero2 div {
-  flex: 1 1 0;
+  /* Reset for all direct descendants */
+  min-width: 0;
+  min-height: 0;
+  box-sizing: border-box;
+  padding: 0;
   display: flex;
   flex-direction: column;
-  justify-content: center;
-  gap: 1.3rem;
-  min-width: 0;
-  padding-left: clamp(1rem, 2vw, 2rem);
+  justify-content: flex-end;
+}
+
+/* Left section (person/card) */
+.hero.hero2 div:first-child {
+  flex: 1 1 0;
+  align-items: flex-end;
+  justify-content: flex-end;
+  padding-left: 2vw;
+  padding-bottom: 2vw;
   position: relative;
-  z-index: 1;
+  z-index: 2;
 }
 
-/* On mobile/tablet, stack and center text column */
-@media (width <= 900px) {
-  .hero.hero2 div {
-    padding-left: 0;
-    align-items: center;
-    text-align: center;
-  }
-}
-
-/* HEADLINE & ACCENT STYLES */
-.hero.hero2 h1, .hero.hero2 h2, .hero.hero2 h3 {
-  font-weight: 800;
-  font-size: clamp(2rem, 4vw, 2.7rem);
-  color: #2348a1;
-  margin: 0 0 0.5em;
-  background: none;
-  border-radius: 0.5em;
-  line-height: 1.1;
-}
-
-.hero.hero2 h1 span,
-.hero.hero2 h2 span,
-.hero.hero2 h3 span {
-  display: inline-block;
-  background: #2348a1;
-  color: #fff;
-  border-radius: 0.7em;
-  padding: 0.18em 0.65em;
-  margin-right: 0.15em;
-  font-weight: 800;
-  vertical-align: middle;
-}
-
-.hero.hero2 h1 strong,
-.hero.hero2 h2 strong,
-.hero.hero2 h3 strong {
-  display: inline-block;
-  background: #e3196e;
-  color: #fff;
-  border-radius: 0.7em;
-  padding: 0.18em 0.65em;
-  margin-left: 0.15em;
-  font-weight: 800;
-  vertical-align: middle;
-}
-
-.hero.hero2 p, .hero.hero2 .promo, .hero.hero2 .subhead {
-  font-size: clamp(1rem, 2vw, 1.3rem);
-  color: #e3196e;
-  font-weight: 600;
-  line-height: 1.35;
-  margin: 0.2em 0 0.8em;
-  background: none;
-  border-radius: 0.2em;
-}
-
-/* Gold accent for product weight/info */
-.hero.hero2 span,
-.hero.hero2 em {
-  color: #ffd700;
-  font-size: 1.2rem;
-  font-weight: 700;
-  margin-top: 1em;
-  letter-spacing: 0.03em;
-  display: block;
-}
-
-/* BADGE/LOGO OVERLAY (if present as a child .badge) */
-.hero.hero2 .badge {
-  position: absolute;
-  top: 2rem;
-  right: 2rem;
-  width: 72px;
-  height: 72px;
-  background: #1d2a53;
-  border-radius: 50%;
-  display: flex;
+/* Center section (product image, overlapping sides) */
+.hero.hero2 div:not(:first-child, :last-child) {
+  flex: 0 0 400px;
   align-items: center;
-  justify-content: center;
-  box-shadow: 0 2px 16px rgb(35 72 161 / 15%);
-  z-index: 10;
-}
-
-.hero.hero2 .badge img {
-  max-width: 48px;
-  max-height: 48px;
-  border-radius: 50%;
-}
-
-@media (width <= 900px) {
-  .hero.hero2 .badge {
-    top: 1rem;
-    right: 1rem;
-    width: 54px;
-    height: 54px;
-  }
-
-  .hero.hero2 .badge img {
-    max-width: 38px;
-    max-height: 38px;
-  }
-}
-
-/* Accent swirl (if you have a .swirl element inside the block) */
-.hero.hero2 .swirl {
-  position: absolute;
-  left: 0;
-  right: 0;
-  bottom: -18px;
-  height: 80px;
-  width: 100%;
-  background-repeat: repeat-x;
-  background-position: left bottom;
-  background-size: contain;
-  opacity: 0.7;
+  justify-content: flex-end;
+  position: relative;
+  z-index: 3;
+  margin-left: -5vw;
+  margin-right: -5vw;
   pointer-events: none;
 }
 
-/* Responsive headline scaling for very small screens */
-@media (width <= 600px) {
-  .hero.hero2 h1, .hero.hero2 h2, .hero.hero2 h3 {
-    font-size: 1.4rem;
-  }
+/* Right section (headline/text) */
+.hero.hero2 div:last-child {
+  flex: 1 1 0;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding-right: 2vw;
+  padding-bottom: 2vw;
+  position: relative;
+  z-index: 2;
+}
 
-  .hero.hero2 {
-    padding: 1.1rem 0.5rem;
-    gap: 1.1rem;
+/* Responsive: stack vertically and shrink product on smaller screens */
+@media (width <= 1100px) {
+  .hero.hero2 div:not(:first-child, :last-child) {
+    flex-basis: 260px;
+    margin-left: -2vw;
+    margin-right: -2vw;
   }
 }
 
-/* Remove z-index from .picture if present in previous rules */
-.hero.hero2 .picture {
-  z-index: unset;
+@media (width <= 900px) {
+  .hero.hero2 {
+    flex-direction: column;
+    min-height: 0;
+    height: auto;
+  }
+
+  .hero.hero2 div,
+  .hero.hero2 div:first-child,
+  .hero.hero2 div:last-child,
+  .hero.hero2 div:not(:first-child, :last-child) {
+    flex-basis: auto;
+    align-items: center;
+    justify-content: center;
+    padding: 0;
+    margin: 0;
+  }
+}
+
+/* Product image: make large, center, and overlap */
+.hero.hero2 picture {
+  width: 100%;
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+  position: relative;
+  flex: 1;
+  order: 2;
+}
+
+/* If the image is on the right: */
+
+/* If the image is on the left: use order: 1; flex: 1; */
+
+/* Make sure product image fills block and does not stretch */
+.hero.hero2 picture img {
+  width: 100%;
+  max-width: 420px;
+  object-fit: cover;
+  display: block;
+  margin-bottom: -36px;
+}
+
+/* Chocolate swirl: always absolutely at the bottom, full width, behind product */
+.hero.hero2 img[src*="swirl"], .hero.hero2 .swirl, .hero.hero2 svg.swirl {
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  width: 100vw;
+  min-height: 90px;
+  max-height: 180px;
+  height: auto;
+  object-fit: cover;
+  z-index: 1;
+  pointer-events: none;
+}
+
+/* Top-right blue curve/logo flush to edge */
+.hero.hero2 img[src*="curve"], .hero.hero2 .curve, .hero.hero2 svg.curve {
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 340px;
+  height: 180px;
+  object-fit: cover;
+  z-index: 10;
+  pointer-events: none;
+}
+
+/* Collapse extra margin/padding from all descendants for edge alignment */
+.hero.hero2 * {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
