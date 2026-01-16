@@ -3,63 +3,50 @@ export default function parse(element, { document }) {
   // Header row for Columns block
   const headerRow = ['Columns (columns5)'];
 
-  // Find the main content wrapper
-  const content = element.querySelector('.footer-brand__primary--content');
-  if (!content) return;
-
-  // Get left section: ITC logo and any text nodes (including 'Enduring Value')
-  const leftSection = content.querySelector('.footer-brand__left');
-  let leftCellContent = [];
+  // --- LEFT COLUMN: ITC Logo + Enduring Value ---
+  const leftSection = element.querySelector('.footer-brand__left');
+  let leftContent = [];
   if (leftSection) {
-    // ITC logo
+    // ITC Logo
     const itcLogo = leftSection.querySelector('img');
-    if (itcLogo) leftCellContent.push(itcLogo);
-    // Find any text nodes in left section (e.g., 'Enduring Value')
+    if (itcLogo) leftContent.push(itcLogo);
+    // Extract any text nodes (such as 'Enduring Value')
     leftSection.childNodes.forEach((node) => {
       if (node.nodeType === Node.TEXT_NODE && node.textContent.trim()) {
-        const div = document.createElement('div');
-        div.textContent = node.textContent.trim();
-        leftCellContent.push(div);
-      } else if (node.nodeType === Node.ELEMENT_NODE && node.tagName === 'DIV') {
-        // If text is in a <div> (not logo wrapper), add it
-        if (!node.classList.contains('footer-brand__secondary--logo')) {
-          leftCellContent.push(node.cloneNode(true));
-        }
+        const textDiv = document.createElement('div');
+        textDiv.textContent = node.textContent.trim();
+        leftContent.push(textDiv);
+      }
+      if (node.nodeType === Node.ELEMENT_NODE && node.tagName !== 'IMG') {
+        leftContent.push(node.cloneNode(true));
       }
     });
   }
 
-  // Get center section: FSSAI logo only
-  let centerCellContent = [];
-  const fssaiLogoWrapper = leftSection ? leftSection.querySelector('.footer-brand__secondary--logo') : null;
-  if (fssaiLogoWrapper) {
-    const fssaiLogo = fssaiLogoWrapper.querySelector('img');
-    if (fssaiLogo) centerCellContent.push(fssaiLogo);
+  // --- CENTER COLUMN: FSSAI Logo ---
+  let centerContent = [];
+  if (leftSection) {
+    const fssaiLogo = leftSection.querySelector('.footer-brand__secondary--logo img');
+    if (fssaiLogo) centerContent.push(fssaiLogo);
   }
 
-  // Get right section: Terms of Use and Privacy Policy links
-  const rightSection = content.querySelector('.footer-brand__right');
-  let rightCellContent = [];
+  // --- RIGHT COLUMN: Terms of Use & Privacy Policy ---
+  const rightSection = element.querySelector('.footer-brand__right');
+  let rightContent = [];
   if (rightSection) {
-    // Find all links in the right section
     const links = rightSection.querySelectorAll('a');
     links.forEach(link => {
-      rightCellContent.push(link);
-      rightCellContent.push(document.createElement('br'));
+      rightContent.push(link);
     });
-    // Remove last <br>
-    if (rightCellContent.length && rightCellContent[rightCellContent.length - 1].tagName === 'BR') {
-      rightCellContent.pop();
-    }
   }
 
-  // Build the columns row
-  const columnsRow = [leftCellContent, centerCellContent, rightCellContent];
+  // Table row: three columns
+  const contentRow = [leftContent, centerContent, rightContent];
 
-  // Create the block table
-  const cells = [headerRow, columnsRow];
-  const block = WebImporter.DOMUtils.createTable(cells, document);
-
-  // Replace the original element
-  element.replaceWith(block);
+  // Create table and replace
+  const table = WebImporter.DOMUtils.createTable([
+    headerRow,
+    contentRow
+  ], document);
+  element.replaceWith(table);
 }
