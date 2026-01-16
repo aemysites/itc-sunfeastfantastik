@@ -1,41 +1,45 @@
 /* global WebImporter */
 export default function parse(element, { document }) {
-  // Header row for the block
+  // Header row for the Columns block
   const headerRow = ['Columns (columns8)'];
 
-  // --- COLUMN 1: Logo + Tagline ---
+  // Find the left column: logo section
   const leftSection = element.querySelector('.footer-brand__left');
-  let logoCellContent = [];
+  let leftContent = '';
   if (leftSection) {
-    // Find the anchor containing the logo
-    const logoAnchor = leftSection.querySelector('a');
-    if (logoAnchor) {
-      logoCellContent.push(logoAnchor);
+    // Get the logo image (with alt text)
+    const logoLink = leftSection.querySelector('a');
+    if (logoLink && logoLink.firstElementChild) {
+      leftContent = logoLink.cloneNode(true);
     }
-    // Always include the tagline 'Enduring Value' as shown in the screenshot
-    logoCellContent.push('Enduring Value');
   }
 
-  // --- COLUMN 2: Links ---
+  // Find the right column: links section
   const rightSection = element.querySelector('.footer-brand__right');
-  let linksCellContent = [];
+  let rightContent = '';
   if (rightSection) {
-    // Find all anchor tags inside the right section
+    // Find the Terms/Privacy links
     const links = Array.from(rightSection.querySelectorAll('a'));
     if (links.length) {
-      linksCellContent = links;
+      // Place each link on its own line (div), preserve original text
+      const container = document.createElement('div');
+      links.forEach(link => {
+        const line = document.createElement('div');
+        line.appendChild(link.cloneNode(true));
+        container.appendChild(line);
+      });
+      rightContent = container;
     }
   }
 
   // Build the table rows
-  const cells = [
+  const rows = [
     headerRow,
-    [logoCellContent, linksCellContent]
+    [leftContent, rightContent]
   ];
 
-  // Create the block table
-  const block = WebImporter.DOMUtils.createTable(cells, document);
-
+  // Create the table block
+  const table = WebImporter.DOMUtils.createTable(rows, document);
   // Replace the original element
-  element.replaceWith(block);
+  element.replaceWith(table);
 }

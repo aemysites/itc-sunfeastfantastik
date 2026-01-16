@@ -1,41 +1,39 @@
 /* global WebImporter */
 export default function parse(element, { document }) {
-  // Cards (cardsNoImages6) block parsing
-  // Header row as per spec
+  // 1. Extract the section heading ('Pookie Messages')
+  const headingEl = element.querySelector('.scrollableCardWrapper__title');
+  let heading;
+  if (headingEl) {
+    heading = document.createElement('h2');
+    heading.textContent = headingEl.textContent.trim();
+  }
+
+  // 2. Cards (cardsNoImages6) block header row
   const headerRow = ['Cards (cardsNoImages6)'];
 
-  // Find the heading
-  const headingEl = element.querySelector('.scrollableCardWrapper__title');
-  let heading = '';
-  if (headingEl) {
-    heading = headingEl.textContent.trim();
-  }
+  // 3. Find the card container
+  const cardRow = element.querySelector('.scrollableCardsWrapper__imageCards--cardRow');
+  if (!cardRow) return;
 
-  // Find the cards container (the row of cards)
-  const cardsRow = element.querySelector('.scrollableCardsWrapper__imageCards--cardRow');
-  if (!cardsRow) return;
+  // 4. Find all card elements inside the card row in DOM order
+  const cardEls = Array.from(cardRow.querySelectorAll('.scrollableCardsWrapper__imageCards--card'));
 
-  // Get all card elements
-  const cardEls = Array.from(cardsRow.querySelectorAll('.scrollableCardsWrapper__imageCards--card'));
-
-  // Each card's content is a <p> inside the card
+  // 5. Build rows: each card's text content is in a <p> inside the card
   const rows = cardEls.map(card => {
-    const cardContent = card.querySelector('p');
-    if (!cardContent) return null;
-    return [cardContent.textContent.trim()];
-  }).filter(Boolean);
+    const p = card.querySelector('p');
+    return p ? [p] : [];
+  }).filter(row => row.length);
 
-  // Compose the table
-  const cells = [headerRow, ...rows];
-  const table = WebImporter.DOMUtils.createTable(cells, document);
+  // 6. Build the table
+  const table = WebImporter.DOMUtils.createTable([
+    headerRow,
+    ...rows
+  ], document);
 
-  // Insert heading before the table, if present
+  // 7. Replace the original element with heading + table
   if (heading) {
-    const headingElem = document.createElement('h2');
-    headingElem.textContent = heading;
-    element.parentNode.insertBefore(headingElem, element);
+    element.replaceWith(heading, table);
+  } else {
+    element.replaceWith(table);
   }
-
-  // Replace original element
-  element.replaceWith(table);
 }
